@@ -1,0 +1,478 @@
+brand,model,battery_capacity_kWh,efficiency_wh_per_km,range_km,car_name
+Abarth,500E Convertible,37.8,156,225,Abarth 500E Convertible
+Abarth,500E Hatchback,37.8,149,225,Abarth 500E Hatchback
+Abarth,600E Scorpionissima,50.8,158,280,Abarth 600E Scorpionissima
+Abarth,600E Turismo,50.8,158,280,Abarth 600E Turismo
+Aiways,U5,60,156,315,Aiways U5
+Aiways,U6,60,150,350,Aiways U6
+Alfa,Romeo Junior Elettrica 54 Kwh,50.8,128,320,Alfa Romeo Junior Elettrica 54 Kwh
+Alfa,Romeo Junior Elettrica 54 Kwh Veloce,50.8,164,310,Alfa Romeo Junior Elettrica 54 Kwh Veloce
+Alpine,A290 Electric 180 Hp,52,138,310,Alpine A290 Electric 180 Hp
+Alpine,A290 Electric 220 Hp,52,144,305,Alpine A290 Electric 220 Hp
+Audi,A6 Avant E-Tron,75.8,146,465,Audi A6 Avant E-Tron
+Audi,A6 Avant E-Tron Performance,94.9,151,575,Audi A6 Avant E-Tron Performance
+Audi,A6 Avant E-Tron Quattro,94.9,157,560,Audi A6 Avant E-Tron Quattro
+Audi,A6 Sportback E-Tron,75.8,136,495,Audi A6 Sportback E-Tron
+Audi,A6 Sportback E-Tron Performance,94.9,141,610,Audi A6 Sportback E-Tron Performance
+Audi,A6 Sportback E-Tron Quattro,94.9,147,590,Audi A6 Sportback E-Tron Quattro
+Audi,Q4 Sportback E-Tron 40,59,156,340,Audi Q4 Sportback E-Tron 40
+Audi,Q4 Sportback E-Tron 45,77,162,435,Audi Q4 Sportback E-Tron 45
+Audi,Q4 Sportback E-Tron 45 Quattro,77,165,410,Audi Q4 Sportback E-Tron 45 Quattro
+Audi,Q4 Sportback E-Tron 55 Quattro,77,165,415,Audi Q4 Sportback E-Tron 55 Quattro
+Audi,Q4 E-Tron 40,59,159,325,Audi Q4 E-Tron 40
+Audi,Q4 E-Tron 45,77,169,420,Audi Q4 E-Tron 45
+Audi,Q4 E-Tron 45 Quattro,77,171,395,Audi Q4 E-Tron 45 Quattro
+Audi,Q4 E-Tron 55 Quattro,77,171,395,Audi Q4 E-Tron 55 Quattro
+Audi,Q6 E-Tron,75.8,166,395,Audi Q6 E-Tron
+Audi,Q6 E-Tron Sportback,75.8,139,410,Audi Q6 E-Tron Sportback
+Audi,Q6 E-Tron Sportback Performance,94.9,145,510,Audi Q6 E-Tron Sportback Performance
+Audi,Q6 E-Tron Sportback Quattro,94.9,149,500,Audi Q6 E-Tron Sportback Quattro
+Audi,Q6 E-Tron Performance,94.9,171,490,Audi Q6 E-Tron Performance
+Audi,Q6 E-Tron Quattro,94.9,176,480,Audi Q6 E-Tron Quattro
+Audi,S6 Avant E-Tron,94.9,156,530,Audi S6 Avant E-Tron
+Audi,S6 Sportback E-Tron,94.9,149,555,Audi S6 Sportback E-Tron
+Audi,Sq6 E-Tron,94.9,169,470,Audi Sq6 E-Tron
+Audi,Sq6 E-Tron Sportback,94.9,164,495,Audi Sq6 E-Tron Sportback
+Audi,E-Tron Gt Rs,97,184,525,Audi E-Tron Gt Rs
+Audi,E-Tron Gt Rs Performance,97,182,525,Audi E-Tron Gt Rs Performance
+Audi,E-Tron Gt S,97,172,540,Audi E-Tron Gt S
+Audi,E-Tron Gt Quattro,97,169,540,Audi E-Tron Gt Quattro
+Bmw,I4 M50,81.3,197,450,Bmw I4 M50
+Bmw,I4 Edrive35,67.1,174,430,Bmw I4 Edrive35
+Bmw,I4 Edrive40,81.3,174,515,Bmw I4 Edrive40
+Bmw,I4 Xdrive40,81.3,183,490,Bmw I4 Xdrive40
+Bmw,I5 M60 Xdrive Sedan (My25),81.2,172,430,Bmw I5 M60 Xdrive Sedan (My25)
+Bmw,I5 M60 Xdrive Touring (My25),81.2,179,425,Bmw I5 M60 Xdrive Touring (My25)
+Bmw,I5 Edrive40 Sedan (My25),81.2,159,480,Bmw I5 Edrive40 Sedan (My25)
+Bmw,I5 Edrive40 Touring (My25),81.2,165,465,Bmw I5 Edrive40 Touring (My25)
+Bmw,I5 Xdrive40 Sedan (My25),81.2,167,465,Bmw I5 Xdrive40 Sedan (My25)
+Bmw,I5 Xdrive40 Touring (My25),81.2,174,450,Bmw I5 Xdrive40 Touring (My25)
+Bmw,I7 M70 Xdrive,101.7,208,490,Bmw I7 M70 Xdrive
+Bmw,I7 Edrive50,101.7,177,520,Bmw I7 Edrive50
+Bmw,I7 Xdrive60,101.7,172,510,Bmw I7 Xdrive60
+Bmw,Ix M70 Xdrive,108.9,209,500,Bmw Ix M70 Xdrive
+Bmw,Ix Xdrive45,94.8,193,470,Bmw Ix Xdrive45
+Bmw,Ix Xdrive60,109.1,194,525,Bmw Ix Xdrive60
+Bmw,Ix1 Edrive20,64.7,150,390,Bmw Ix1 Edrive20
+Bmw,Ix1 Xdrive30,64.7,155,380,Bmw Ix1 Xdrive30
+Bmw,Ix2 Edrive20,64.7,147,395,Bmw Ix2 Edrive20
+Bmw,Ix2 Xdrive30,64.7,155,385,Bmw Ix2 Xdrive30
+Byd,Atto 2,45.1,145,245,Byd Atto 2
+Byd,Atto 3 (My25),60.5,144,340,Byd Atto 3 (My25)
+Byd,Dolphin 44.9 Kwh Active,44.9,132,265,Byd Dolphin 44.9 Kwh Active
+Byd,Dolphin 44.9 Kwh Boost,44.9,145,260,Byd Dolphin 44.9 Kwh Boost
+Byd,Dolphin 60.4 Kwh,60.5,142,350,Byd Dolphin 60.4 Kwh
+Byd,Dolphin Surf 30 Kwh Active,30,136,190,Byd Dolphin Surf 30 Kwh Active
+Byd,Dolphin Surf 43.2 Kwh Boost,43.2,134,270,Byd Dolphin Surf 43.2 Kwh Boost
+Byd,Dolphin Surf 43.2 Kwh Comfort,43.2,139,265,Byd Dolphin Surf 43.2 Kwh Comfort
+Byd,Seal 61.4 Kwh Rwd Comfort,61.4,133,365,Byd Seal 61.4 Kwh Rwd Comfort
+Byd,Seal 82.5 Kwh Awd Excellence,82.5,159,445,Byd Seal 82.5 Kwh Awd Excellence
+Byd,Seal 82.5 Kwh Rwd Design,82.5,145,480,Byd Seal 82.5 Kwh Rwd Design
+Byd,Seal U 71.8 Kwh Comfort,71.8,171,360,Byd Seal U 71.8 Kwh Comfort
+Byd,Seal U 87 Kwh Design,87,174,425,Byd Seal U 87 Kwh Design
+Byd,Sealion 7 82.5 Kwh Awd Design,82.5,181,400,Byd Sealion 7 82.5 Kwh Awd Design
+Byd,Sealion 7 82.5 Kwh Rwd Comfort,82.5,171,415,Byd Sealion 7 82.5 Kwh Rwd Comfort
+Byd,Sealion 7 91.3 Kwh Awd Excellence,91.3,182,430,Byd Sealion 7 91.3 Kwh Awd Excellence
+Byd,Tang Flagship,108.8,205,460,Byd Tang Flagship
+Cupra,Born 170 Kw - 59 Kwh,59,156,360,Cupra Born 170 Kw - 59 Kwh
+Cupra,Born 170 Kw - 77 Kwh,77,157,460,Cupra Born 170 Kw - 77 Kwh
+Cupra,Born Vz,79,149,465,Cupra Born Vz
+Cupra,Tavascan Endurance,77,142,445,Cupra Tavascan Endurance
+Cupra,Tavascan Vz,77,150,425,Cupra Tavascan Vz
+Cadillac,Lyriq 600 E4,102,192,460,Cadillac Lyriq 600 E4
+Citroen,E-Berlingo M 50 Kwh,50,149,235,Citroen E-Berlingo M 50 Kwh
+Citroen,E-Berlingo Xl 50 Kwh,50,149,230,Citroen E-Berlingo Xl 50 Kwh
+Citroen,E-C3,44,135,255,Citroen E-C3
+Citroen,E-C3 Aircross,44,144,240,Citroen E-C3 Aircross
+Citroen,E-C4,46.3,135,285,Citroen E-C4
+Citroen,E-C4 54 Kwh,50.8,122,325,Citroen E-C4 54 Kwh
+Citroen,E-C4 X,46.3,132,290,Citroen E-C4 X
+Citroen,E-C4 X 54 Kwh,50.8,119,335,Citroen E-C4 X 54 Kwh
+Citroen,E-Spacetourer M 50 Kwh,46.3,217,180,Citroen E-Spacetourer M 50 Kwh
+Citroen,E-Spacetourer M 75 Kwh,68,202,260,Citroen E-Spacetourer M 75 Kwh
+Citroen,E-Spacetourer Xl 50 Kwh,46.3,219,180,Citroen E-Spacetourer Xl 50 Kwh
+Citroen,E-Spacetourer Xl 75 Kwh,68,204,260,Citroen E-Spacetourer Xl 75 Kwh
+Ds,3 E-Tense,50.8,128,300,Ds 3 E-Tense
+Ds,N°4 E-Tense,58.3,130,375,Ds N°4 E-Tense
+Ds,N°8 Awd Long Range,97.2,146,530,Ds N°8 Awd Long Range
+Ds,N°8 Fwd,73.7,141,415,Ds N°8 Fwd
+Ds,N°8 Fwd Long Range,97.2,136,545,Ds N°8 Fwd Long Range
+Dacia,Spring Electric 45,25,109,165,Dacia Spring Electric 45
+Dacia,Spring Electric 65,25,114,160,Dacia Spring Electric 65
+Dongfeng,Box 31.4 Kwh,29,126,190,Dongfeng Box 31.4 Kwh
+Dongfeng,Box 42.3 Kwh,40,129,255,Dongfeng Box 42.3 Kwh
+Elaris,Beo 86 Kwh,81,203,390,Elaris Beo 86 Kwh
+Fiat,500E 3+1 24 Kwh,21.3,112,135,Fiat 500E 3+1 24 Kwh
+Fiat,500E 3+1 42 Kwh,37.3,122,235,Fiat 500E 3+1 42 Kwh
+Fiat,500E Cabrio 24 Kwh,21.3,112,135,Fiat 500E Cabrio 24 Kwh
+Fiat,500E Cabrio 42 Kwh,37.3,125,230,Fiat 500E Cabrio 42 Kwh
+Fiat,500E Hatchback 24 Kwh,21.3,112,135,Fiat 500E Hatchback 24 Kwh
+Fiat,500E Hatchback 42 Kwh,37.3,118,235,Fiat 500E Hatchback 42 Kwh
+Fiat,600E,50.8,124,310,Fiat 600E
+Fiat,Grande Panda,43.8,136,260,Fiat Grande Panda
+Ford,Capri Extended Range Awd,79,148,455,Ford Capri Extended Range Awd
+Ford,Capri Extended Range Rwd,77,135,455,Ford Capri Extended Range Rwd
+Ford,Capri Standard Range Rwd,52,163,320,Ford Capri Standard Range Rwd
+Ford,Explorer Extended Range Awd,79,153,440,Ford Explorer Extended Range Awd
+Ford,Explorer Extended Range Rwd,77,139,435,Ford Explorer Extended Range Rwd
+Ford,Explorer Standard Range Rwd,52,137,305,Ford Explorer Standard Range Rwd
+Ford,Mustang Mach-E Er Awd (My25),88,160,435,Ford Mustang Mach-E Er Awd (My25)
+Ford,Mustang Mach-E Er Awd (My24),91,165,445,Ford Mustang Mach-E Er Awd (My24)
+Ford,Mustang Mach-E Er Rwd (My25),88,147,475,Ford Mustang Mach-E Er Rwd (My25)
+Ford,Mustang Mach-E Er Rwd (My24),91,152,480,Ford Mustang Mach-E Er Rwd (My24)
+Ford,Mustang Mach-E Gt (My24),91,177,425,Ford Mustang Mach-E Gt (My24)
+Ford,Mustang Mach-E Gt (My25),91,177,435,Ford Mustang Mach-E Gt (My25)
+Ford,Mustang Mach-E Rally (My25),91,178,415,Ford Mustang Mach-E Rally (My25)
+Ford,Mustang Mach-E Rally (My24),91,178,410,Ford Mustang Mach-E Rally (My24)
+Ford,Mustang Mach-E Sr Rwd (My24),72.6,154,385,Ford Mustang Mach-E Sr Rwd (My24)
+Ford,Mustang Mach-E Sr Rwd (My25),72.6,154,380,Ford Mustang Mach-E Sr Rwd (My25)
+Ford,Puma Gen-E,43.6,126,275,Ford Puma Gen-E
+Ford,E-Tourneo Courier,43.6,164,200,Ford E-Tourneo Courier
+Ford,E-Tourneo Custom L1 160 Kw,64,370,235,Ford E-Tourneo Custom L1 160 Kw
+Ford,E-Tourneo Custom L1 210 Kw,64,370,235,Ford E-Tourneo Custom L1 210 Kw
+Ford,E-Tourneo Custom L2 160 Kw,64,370,235,Ford E-Tourneo Custom L2 160 Kw
+Ford,E-Tourneo Custom L2 210 Kw,64,370,235,Ford E-Tourneo Custom L2 210 Kw
+Gwm,Ora 03 48 Kwh,45.4,146,260,Gwm Ora 03 48 Kwh
+Gwm,Ora 03 63 Kwh,59.3,141,340,Gwm Ora 03 63 Kwh
+Gwm,Ora 03 Gt,59.3,148,325,Gwm Ora 03 Gt
+Gwm,Ora 07 Gt,83.5,161,430,Gwm Ora 07 Gt
+Gwm,Ora 07 Pro,64.3,146,350,Gwm Ora 07 Pro
+Gwm,Ora 07 Pure,64.3,146,350,Gwm Ora 07 Pure
+Genesis,G80 Electrified Luxury,82.5,159,440,Genesis G80 Electrified Luxury
+Genesis,Gv60 Premium,74,143,390,Genesis Gv60 Premium
+Genesis,Gv60 Sport,74,157,375,Genesis Gv60 Sport
+Genesis,Gv60 Sport Plus,74,159,360,Genesis Gv60 Sport Plus
+Genesis,Gv70 Electrified Sport,74,163,350,Genesis Gv70 Electrified Sport
+Honda,E:Ny1,61.9,150,335,Honda E:Ny1
+Hongqi,E-Hs9 120 Kwh,112,217,455,Hongqi E-Hs9 120 Kwh
+Hongqi,E-Hs9 84 Kwh,76.5,193,320,Hongqi E-Hs9 84 Kwh
+Hongqi,E-Hs9 99 Kwh,90,194,370,Hongqi E-Hs9 99 Kwh
+Hyundai,Inster Long Range,46,124,300,Hyundai Inster Long Range
+Hyundai,Inster Standard Range,39,119,255,Hyundai Inster Standard Range
+Hyundai,Ioniq 5 63 Kwh Rwd (My24),60,136,345,Hyundai Ioniq 5 63 Kwh Rwd (My24)
+Hyundai,Ioniq 5 84 Kwh Awd (My24),80,162,445,Hyundai Ioniq 5 84 Kwh Awd (My24)
+Hyundai,Ioniq 5 84 Kwh Rwd (My24),80,155,450,Hyundai Ioniq 5 84 Kwh Rwd (My24)
+Hyundai,Ioniq 5 N (My24),80,179,390,Hyundai Ioniq 5 N (My24)
+Hyundai,Ioniq 6 Long Range 2Wd,74,136,495,Hyundai Ioniq 6 Long Range 2Wd
+Hyundai,Ioniq 6 Long Range Awd,74,143,440,Hyundai Ioniq 6 Long Range Awd
+Hyundai,Ioniq 6 Standard Range 2Wd,50,117,335,Hyundai Ioniq 6 Standard Range 2Wd
+Hyundai,Ioniq 9 Long Range Awd,106,177,490,Hyundai Ioniq 9 Long Range Awd
+Hyundai,Ioniq 9 Long Range Rwd,106,171,500,Hyundai Ioniq 9 Long Range Rwd
+Hyundai,Ioniq 9 Performance Awd,106,177,480,Hyundai Ioniq 9 Performance Awd
+Hyundai,Kona Electric 48 Kwh,48.4,128,295,Hyundai Kona Electric 48 Kwh
+Hyundai,Kona Electric 65 Kwh,65.4,144,390,Hyundai Kona Electric 65 Kwh
+Jaguar,I-Pace Ev400,84.7,208,380,Jaguar I-Pace Ev400
+Jeep,Avenger Electric,50.8,132,310,Jeep Avenger Electric
+Jeep,Compass Electric 74 Kwh,74,148,370,Jeep Compass Electric 74 Kwh
+Kgm,Torres Evx,72,156,370,Kgm Torres Evx
+Kia,Ev3 Long Range,78,139,455,Kia Ev3 Long Range
+Kia,Ev3 Standard Range,55,133,325,Kia Ev3 Standard Range
+Kia,Ev4 Hatchback Long Range,78,132,475,Kia Ev4 Hatchback Long Range
+Kia,Ev4 Hatchback Standard Range,55,134,340,Kia Ev4 Hatchback Standard Range
+Kia,Ev4 Sedan Long Range,78,124,495,Kia Ev4 Sedan Long Range
+Kia,Ev4 Sedan Standard Range,55,128,355,Kia Ev4 Sedan Standard Range
+Kia,Ev6 Gt,80,178,385,Kia Ev6 Gt
+Kia,Ev6 Long Range 2Wd,80,143,455,Kia Ev6 Long Range 2Wd
+Kia,Ev6 Long Range Awd,80,154,440,Kia Ev6 Long Range Awd
+Kia,Ev6 Standard Range 2Wd,60,140,345,Kia Ev6 Standard Range 2Wd
+Kia,Ev9 76.1 Kwh Rwd,73,165,355,Kia Ev9 76.1 Kwh Rwd
+Kia,Ev9 99.8 Kwh Awd,96,188,435,Kia Ev9 99.8 Kwh Awd
+Kia,Ev9 99.8 Kwh Awd Gt,96,190,420,Kia Ev9 99.8 Kwh Awd Gt
+Kia,Ev9 99.8 Kwh Awd Gt-Line,96,190,425,Kia Ev9 99.8 Kwh Awd Gt-Line
+Kia,Ev9 99.8 Kwh Rwd,96,171,450,Kia Ev9 99.8 Kwh Rwd
+Kia,Niro Ev,64.8,140,385,Kia Niro Ev
+Lancia,Ypsilon,48.1,122,310,Lancia Ypsilon
+Leapmotor,C10,69.9,166,350,Leapmotor C10
+Leapmotor,T03,36,136,225,Leapmotor T03
+Lexus,Rz 300E,64,149,365,Lexus Rz 300E
+Lexus,Rz 450E,64,158,350,Lexus Rz 450E
+Lexus,Ux 300E,64,145,340,Lexus Ux 300E
+Lotus,Eletre,109,204,495,Lotus Eletre
+Lotus,Eletre R,109,266,455,Lotus Eletre R
+Lotus,Eletre S,109,222,480,Lotus Eletre S
+Lotus,Emeya,98.9,198,520,Lotus Emeya
+Lotus,Emeya R,98.9,227,465,Lotus Emeya R
+Lotus,Emeya S,98.9,198,520,Lotus Emeya S
+Lucid,Air Grand Touring,112,143,665,Lucid Air Grand Touring
+Lucid,Air Pure Rwd,92,130,565,Lucid Air Pure Rwd
+Lucid,Air Touring,92,142,580,Lucid Air Touring
+Lynk&Co,2,65,149,370,Lynk&Co 02
+Mg,Cyberster Gt,74.4,168,395,Mg Cyberster Gt
+Mg,Cyberster Trophy,74.4,146,425,Mg Cyberster Trophy
+Mg,4 Electric 51 Kwh,50.8,145,300,Mg 4 Electric 51 Kwh
+Mg,4 Electric 64 Kwh,61.7,142,360,Mg 4 Electric 64 Kwh
+Mg,4 Electric 77 Kwh,74.4,143,425,Mg 4 Electric 77 Kwh
+Mg,4 Electric Xpower,61.7,160,320,Mg 4 Electric Xpower
+Mg,5 Electric Long Range,57.4,151,335,Mg 5 Electric Long Range
+Mg,5 Electric Standard Range,46,148,265,Mg 5 Electric Standard Range
+Mg,S5  Ev 49 Kwh,47.1,139,275,Mg S5  Ev 49 Kwh
+Mg,S5  Ev 64 Kwh,62.1,134,365,Mg S5  Ev 64 Kwh
+Mg,Zs Ev Long Range,68.3,155,370,Mg Zs Ev Long Range
+Mg,Zs Ev Standard Range,49,153,265,Mg Zs Ev Standard Range
+Maserati,Grancabrio Folgore,83,198,395,Maserati Grancabrio Folgore
+Maserati,Granturismo Folgore,83,182,420,Maserati Granturismo Folgore
+Maserati,Grecale Folgore,95,220,400,Maserati Grecale Folgore
+Maxus,Mifa 9,84,195,365,Maxus Mifa 9
+Mazda,6E 68.8 Kwh,66,138,390,Mazda 6E 68.8 Kwh
+Mazda,6E Long Range 80 Kwh,75,136,440,Mazda 6E Long Range 80 Kwh
+Mercedes-Benz,Cla 250+,85,122,565,Mercedes-Benz Cla 250+
+Mercedes-Benz,Cla 350 4Matic,85,126,550,Mercedes-Benz Cla 350 4Matic
+Mercedes-Benz,Eqa 250,66.5,146,395,Mercedes-Benz Eqa 250
+Mercedes-Benz,Eqa 250+,70.5,142,420,Mercedes-Benz Eqa 250+
+Mercedes-Benz,Eqa 300 4Matic,66.5,162,350,Mercedes-Benz Eqa 300 4Matic
+Mercedes-Benz,Eqa 350 4Matic,66.5,162,350,Mercedes-Benz Eqa 350 4Matic
+Mercedes-Benz,Eqb 250+,70.5,152,415,Mercedes-Benz Eqb 250+
+Mercedes-Benz,Eqb 300 4Matic,66.5,168,345,Mercedes-Benz Eqb 300 4Matic
+Mercedes-Benz,Eqb 350 4Matic,66.5,168,345,Mercedes-Benz Eqb 350 4Matic
+Mercedes-Benz,Eqe 300,89,163,525,Mercedes-Benz Eqe 300
+Mercedes-Benz,Eqe 350 4Matic,90.6,173,515,Mercedes-Benz Eqe 350 4Matic
+Mercedes-Benz,Eqe 350+,96,164,555,Mercedes-Benz Eqe 350+
+Mercedes-Benz,Eqe 500 4Matic,90.6,173,505,Mercedes-Benz Eqe 500 4Matic
+Mercedes-Benz,Eqe Amg 43 4Matic,90.6,207,450,Mercedes-Benz Eqe Amg 43 4Matic
+Mercedes-Benz,Eqe Amg 53 4Matic+,90.6,208,450,Mercedes-Benz Eqe Amg 53 4Matic+
+Mercedes-Benz,Eqe Suv 300,90.6,182,450,Mercedes-Benz Eqe Suv 300
+Mercedes-Benz,Eqe Suv 350 4Matic,90.6,189,435,Mercedes-Benz Eqe Suv 350 4Matic
+Mercedes-Benz,Eqe Suv 350+,96,164,475,Mercedes-Benz Eqe Suv 350+
+Mercedes-Benz,Eqe Suv 500 4Matic,96,187,455,Mercedes-Benz Eqe Suv 500 4Matic
+Mercedes-Benz,Eqe Suv Amg 43 4Matic,90.6,214,425,Mercedes-Benz Eqe Suv Amg 43 4Matic
+Mercedes-Benz,Eqe Suv Amg 53 4Matic+,90.6,242,420,Mercedes-Benz Eqe Suv Amg 53 4Matic+
+Mercedes-Benz,Eqs 350,96,165,570,Mercedes-Benz Eqs 350
+Mercedes-Benz,Eqs 450 4Matic,118,180,655,Mercedes-Benz Eqs 450 4Matic
+Mercedes-Benz,Eqs 450+,118,173,685,Mercedes-Benz Eqs 450+
+Mercedes-Benz,Eqs 500 4Matic,118,180,640,Mercedes-Benz Eqs 500 4Matic
+Mercedes-Benz,Eqs 580 4Matic,118,180,640,Mercedes-Benz Eqs 580 4Matic
+Mercedes-Benz,Eqs Amg 53 4Matic+,118,222,585,Mercedes-Benz Eqs Amg 53 4Matic+
+Mercedes-Benz,Eqs Suv 450 4Matic,118,199,530,Mercedes-Benz Eqs Suv 450 4Matic
+Mercedes-Benz,Eqs Suv 450+,118,195,540,Mercedes-Benz Eqs Suv 450+
+Mercedes-Benz,Eqs Suv 500 4Matic,118,199,530,Mercedes-Benz Eqs Suv 500 4Matic
+Mercedes-Benz,Eqs Suv 580 4Matic,118,199,530,Mercedes-Benz Eqs Suv 580 4Matic
+Mercedes-Benz,Eqs Suv Maybach 680,118,211,490,Mercedes-Benz Eqs Suv Maybach 680
+Mercedes-Benz,Eqt 200 Long,45,177,220,Mercedes-Benz Eqt 200 Long
+Mercedes-Benz,Eqt 200 Standard,45,167,225,Mercedes-Benz Eqt 200 Standard
+Mercedes-Benz,Eqv 250 Extra-Long,60,282,210,Mercedes-Benz Eqv 250 Extra-Long
+Mercedes-Benz,Eqv 250 Long,60,282,215,Mercedes-Benz Eqv 250 Long
+Mercedes-Benz,Eqv 300 Extra-Long,90,249,315,Mercedes-Benz Eqv 300 Extra-Long
+Mercedes-Benz,Eqv 300 Long,90,276,320,Mercedes-Benz Eqv 300 Long
+Mercedes-Benz,G 580,116,267,360,Mercedes-Benz G 580
+Mercedes-Benz,Evito Tourer Extra-Long 60 Kwh,60,254,215,Mercedes-Benz Evito Tourer Extra-Long 60 Kwh
+Mercedes-Benz,Evito Tourer Long 60 Kwh,60,259,220,Mercedes-Benz Evito Tourer Long 60 Kwh
+Mercedes-Benz,Evito Tourer Long 90 Kwh,90,260,325,Mercedes-Benz Evito Tourer Long 90 Kwh
+Mini,Aceman E,38.5,129,230,Mini Aceman E
+Mini,Aceman Jcw,49.2,143,280,Mini Aceman Jcw
+Mini,Aceman Se,49.2,129,290,Mini Aceman Se
+Mini,Cooper E,36.6,125,250,Mini Cooper E
+Mini,Cooper Jcw,49.2,135,290,Mini Cooper Jcw
+Mini,Cooper Se,49.2,127,330,Mini Cooper Se
+Mini,Countryman E,64.6,140,380,Mini Countryman E
+Mini,Countryman Se All4,64.6,149,365,Mini Countryman Se All4
+Nio,El6 Long Range,90,170,435,Nio El6 Long Range
+Nio,El6 Standard Range,73.5,181,365,Nio El6 Standard Range
+Nio,El7 Long Range,90,185,430,Nio El7 Long Range
+Nio,El7 Standard Range,73.5,198,355,Nio El7 Standard Range
+Nio,El8 Long Range,90,185,440,Nio El8 Long Range
+Nio,El8 Standard Range,73.5,196,360,Nio El8 Standard Range
+Nio,Et5 Long Range,90,167,500,Nio Et5 Long Range
+Nio,Et5 Standard Range,73.5,175,410,Nio Et5 Standard Range
+Nio,Et5 Touring Long Range,90,178,485,Nio Et5 Touring Long Range
+Nio,Et5 Touring Standard Range,73.5,169,400,Nio Et5 Touring Standard Range
+Nio,Et7 Long Range,90,178,505,Nio Et7 Long Range
+Nio,Et7 Standard Range,73.5,191,415,Nio Et7 Standard Range
+Nissan,Ariya 63Kwh,63,175,335,Nissan Ariya 63Kwh
+Nissan,Ariya 87Kwh,87,169,450,Nissan Ariya 87Kwh
+Nissan,Ariya E-4Orce 87Kwh - 225 Kw,87,190,405,Nissan Ariya E-4Orce 87Kwh - 225 Kw
+Nissan,Ariya E-4Orce 87Kwh - 320 Kw Nismo,87,209,385,Nissan Ariya E-4Orce 87Kwh - 320 Kw Nismo
+Nissan,Townstar Ev Passenger,45,158,225,Nissan Townstar Ev Passenger
+Nissan,Townstar Ev Passenger L2,45,173,220,Nissan Townstar Ev Passenger L2
+Omoda,E5,61,152,345,Omoda E5
+Opel,Astra Electric,50.8,128,320,Opel Astra Electric
+Opel,Astra Sports Tourer Electric,50.8,123,310,Opel Astra Sports Tourer Electric
+Opel,Combo-E Life 50 Kwh,50,149,235,Opel Combo-E Life 50 Kwh
+Opel,Combo-E Life Xl 50 Kwh,50,149,230,Opel Combo-E Life Xl 50 Kwh
+Opel,Corsa Electric 50 Kwh,46.3,131,290,Opel Corsa Electric 50 Kwh
+Opel,Corsa Electric 51 Kwh,48.1,120,315,Opel Corsa Electric 51 Kwh
+Opel,Frontera 44 Kwh,44,144,245,Opel Frontera 44 Kwh
+Opel,Grandland 73 Kwh,73,145,365,Opel Grandland 73 Kwh
+Opel,Grandland 82 Kwh,82.2,146,410,Opel Grandland 82 Kwh
+Opel,Mokka Electric,50.8,126,285,Opel Mokka Electric
+Opel,Zafira-E Life L2 50 Kwh,46.3,217,180,Opel Zafira-E Life L2 50 Kwh
+Opel,Zafira-E Life L2 75 Kwh,68,202,260,Opel Zafira-E Life L2 75 Kwh
+Opel,Zafira-E Life L3 50 Kwh,46.3,219,180,Opel Zafira-E Life L3 50 Kwh
+Opel,Zafira-E Life L3 75 Kwh,68,204,260,Opel Zafira-E Life L3 75 Kwh
+Peugeot,E-2008 50 Kwh,46.3,136,270,Peugeot E-2008 50 Kwh
+Peugeot,E-2008 54 Kwh,50.8,125,300,Peugeot E-2008 54 Kwh
+Peugeot,E-208 50 Kwh,46.3,132,290,Peugeot E-208 50 Kwh
+Peugeot,E-208 51 Kwh,48.1,120,310,Peugeot E-208 51 Kwh
+Peugeot,E-3008 73 Kwh,73,143,380,Peugeot E-3008 73 Kwh
+Peugeot,E-3008 73 Kwh Dual Motor,73,195,375,Peugeot E-3008 73 Kwh Dual Motor
+Peugeot,E-3008 97 Kwh Long Range,96.9,145,500,Peugeot E-3008 97 Kwh Long Range
+Peugeot,E-308,50.8,124,300,Peugeot E-308
+Peugeot,E-308 Sw,50.8,127,300,Peugeot E-308 Sw
+Peugeot,E-408 58 Kwh,58.3,129,375,Peugeot E-408 58 Kwh
+Peugeot,E-5008 73 Kwh,73,150,370,Peugeot E-5008 73 Kwh
+Peugeot,E-5008 73 Kwh Dual Motor,73,203,360,Peugeot E-5008 73 Kwh Dual Motor
+Peugeot,E-5008 97 Kwh Long Range,96.9,152,485,Peugeot E-5008 97 Kwh Long Range
+Peugeot,E-Rifter M 50 Kwh,50,152,235,Peugeot E-Rifter M 50 Kwh
+Peugeot,E-Rifter Xl 50 Kwh,50,153,230,Peugeot E-Rifter Xl 50 Kwh
+Peugeot,E-Traveller L2 50 Kwh,46.3,217,180,Peugeot E-Traveller L2 50 Kwh
+Peugeot,E-Traveller L2 75 Kwh,68,202,260,Peugeot E-Traveller L2 75 Kwh
+Peugeot,E-Traveller L3 50 Kwh,46.3,219,180,Peugeot E-Traveller L3 50 Kwh
+Peugeot,E-Traveller L3 75 Kwh,68,204,260,Peugeot E-Traveller L3 75 Kwh
+Polestar,2 Long Range Dual Motor (My26),79,142,455,Polestar 2 Long Range Dual Motor (My26)
+Polestar,2 Long Range Performance (My26),79,142,450,Polestar 2 Long Range Performance (My26)
+Polestar,2 Long Range Single Motor (My26),79,130,475,Polestar 2 Long Range Single Motor (My26)
+Polestar,2 Standard Range Single Motor (My26),67,129,405,Polestar 2 Standard Range Single Motor (My26)
+Polestar,3 Long Range Dual Motor,107,183,515,Polestar 3 Long Range Dual Motor
+Polestar,3 Long Range Performance,107,194,495,Polestar 3 Long Range Performance
+Polestar,3 Long Range Single Motor,107,166,530,Polestar 3 Long Range Single Motor
+Polestar,4 Long Range Dual Motor,94,165,485,Polestar 4 Long Range Dual Motor
+Polestar,4 Long Range Single Motor,94,157,495,Polestar 4 Long Range Single Motor
+Porsche,Macan 4 Electric,95,184,470,Porsche Macan 4 Electric
+Porsche,Macan 4S Electric,95,186,470,Porsche Macan 4S Electric
+Porsche,Macan Electric,95,177,495,Porsche Macan Electric
+Porsche,Macan Turbo Electric,95,183,460,Porsche Macan Turbo Electric
+Porsche,Taycan,82.3,164,495,Porsche Taycan
+Porsche,Taycan 4,82.3,172,490,Porsche Taycan 4
+Porsche,Taycan 4 Cross Turismo,97,188,510,Porsche Taycan 4 Cross Turismo
+Porsche,Taycan 4 Plus,97,175,565,Porsche Taycan 4 Plus
+Porsche,Taycan 4S,82.3,174,490,Porsche Taycan 4S
+Porsche,Taycan 4S Cross Turismo,97,188,510,Porsche Taycan 4S Cross Turismo
+Porsche,Taycan 4S Plus,97,177,565,Porsche Taycan 4S Plus
+Porsche,Taycan 4S Plus Sport Turismo,97,186,510,Porsche Taycan 4S Plus Sport Turismo
+Porsche,Taycan 4S Sport Turismo,82.3,183,440,Porsche Taycan 4S Sport Turismo
+Porsche,Taycan Gts,97,176,535,Porsche Taycan Gts
+Porsche,Taycan Gts Sport Turismo,97,185,505,Porsche Taycan Gts Sport Turismo
+Porsche,Taycan Plus,97,168,575,Porsche Taycan Plus
+Porsche,Taycan Plus Sport Turismo,97,176,530,Porsche Taycan Plus Sport Turismo
+Porsche,Taycan Sport Turismo,82.3,173,460,Porsche Taycan Sport Turismo
+Porsche,Taycan Turbo,97,174,535,Porsche Taycan Turbo
+Porsche,Taycan Turbo Cross Turismo,97,188,495,Porsche Taycan Turbo Cross Turismo
+Porsche,Taycan Turbo Gt,97,184,475,Porsche Taycan Turbo Gt
+Porsche,Taycan Turbo Gt Weissach,97,180,475,Porsche Taycan Turbo Gt Weissach
+Porsche,Taycan Turbo S,97,174,525,Porsche Taycan Turbo S
+Porsche,Taycan Turbo S Cross Turismo,97,188,485,Porsche Taycan Turbo S Cross Turismo
+Porsche,Taycan Turbo S Sport Turismo,97,183,505,Porsche Taycan Turbo S Sport Turismo
+Porsche,Taycan Turbo Sport Turismo,97,184,505,Porsche Taycan Turbo Sport Turismo
+Renault,4 E-Tech 40Kwh 120Hp,40,124,245,Renault 4 E-Tech 40Kwh 120Hp
+Renault,4 E-Tech 52Kwh 150Hp,52,127,315,Renault 4 E-Tech 52Kwh 150Hp
+Renault,5 E-Tech 40Kwh 120Hp,40,132,250,Renault 5 E-Tech 40Kwh 120Hp
+Renault,5 E-Tech 40Kwh 95Hp,40,129,255,Renault 5 E-Tech 40Kwh 95Hp
+Renault,5 E-Tech 52Kwh 150Hp,52,129,320,Renault 5 E-Tech 52Kwh 150Hp
+Renault,Kangoo E-Tech Electric,45,158,225,Renault Kangoo E-Tech Electric
+Renault,Kangoo Grand E-Tech Electric,45,170,220,Renault Kangoo Grand E-Tech Electric
+Renault,Megane E-Tech Ev60 130Hp (Tu2025),60,125,380,Renault Megane E-Tech Ev60 130Hp (Tu2025)
+Renault,Megane E-Tech Ev60 220Hp (Tu2025),60,133,380,Renault Megane E-Tech Ev60 220Hp (Tu2025)
+Renault,Scenic E-Tech Ev60 170Hp,60,144,340,Renault Scenic E-Tech Ev60 170Hp
+Renault,Scenic E-Tech Ev87 220Hp,87,143,480,Renault Scenic E-Tech Ev87 220Hp
+Rolls-Royce,Spectre,102,192,465,Rolls-Royce Spectre
+Skoda,Elroq 50,52,149,310,Skoda Elroq 50
+Skoda,Elroq 60,59,149,350,Skoda Elroq 60
+Skoda,Elroq 85,77,145,450,Skoda Elroq 85
+Skoda,Elroq Rs,79,151,450,Skoda Elroq Rs
+Skoda,Enyaq 60,59,145,360,Skoda Enyaq 60
+Skoda,Enyaq 85,77,141,455,Skoda Enyaq 85
+Skoda,Enyaq 85X,77,150,450,Skoda Enyaq 85X
+Skoda,Enyaq Coupe 60,59,141,370,Skoda Enyaq Coupe 60
+Skoda,Enyaq Coupe 85,77,138,470,Skoda Enyaq Coupe 85
+Skoda,Enyaq Coupe 85X,77,146,460,Skoda Enyaq Coupe 85X
+Skoda,Enyaq Coupe Rs,79,143,470,Skoda Enyaq Coupe Rs
+Skoda,Enyaq Rs,79,147,460,Skoda Enyaq Rs
+Skywell,Be11 Long Range,81,166,390,Skywell Be11 Long Range
+Skywell,Be11 Standard Range,68,149,330,Skywell Be11 Standard Range
+Smart,#1 Brabus,62,155,325,Smart #1 Brabus
+Smart,#1 Premium,62,141,335,Smart #1 Premium
+Smart,#1 Pro,47,152,250,Smart #1 Pro
+Smart,#1 Pro+,62,148,335,Smart #1 Pro+
+Smart,#1 Pulse,62,155,325,Smart #1 Pulse
+Smart,#1 Pure,47,152,250,Smart #1 Pure
+Smart,#1 Pure+,62,148,335,Smart #1 Pure+
+Smart,#3 Brabus,62,149,335,Smart #3 Brabus
+Smart,#3 Premium,62,136,355,Smart #3 Premium
+Smart,#3 Pro,47,145,265,Smart #3 Pro
+Smart,#3 Pro+,62,143,355,Smart #3 Pro+
+Smart,#5 Brabus,94,174,450,Smart #5 Brabus
+Smart,#5 Premium,94,159,465,Smart #5 Premium
+Smart,#5 Pro,74.4,160,370,Smart #5 Pro
+Smart,#5 Pro+,94,159,465,Smart #5 Pro+
+Smart,#5 Pulse,94,174,455,Smart #5 Pulse
+Smart,#5 Summit Edition,94,174,455,Smart #5 Summit Edition
+Subaru,Solterra Awd,64,154,320,Subaru Solterra Awd
+Tesla,Model 3 Long Range Awd (Highland),75,119,525,Tesla Model 3 Long Range Awd (Highland)
+Tesla,Model 3 Long Range Rwd (Highland),75,117,545,Tesla Model 3 Long Range Rwd (Highland)
+Tesla,Model 3 Performance (Highland),75,142,490,Tesla Model 3 Performance (Highland)
+Tesla,Model 3 Rwd (Highland Catl Lfp64),60.5,116,445,Tesla Model 3 Rwd (Highland Catl Lfp64)
+Tesla,Model S Dual Motor,95,150,575,Tesla Model S Dual Motor
+Tesla,Model S Plaid,95,158,560,Tesla Model S Plaid
+Tesla,Model X Dual Motor,95,165,485,Tesla Model X Dual Motor
+Tesla,Model X Plaid,95,180,465,Tesla Model X Plaid
+Tesla,Model Y Long Range Awd (Juniper),75,132,455,Tesla Model Y Long Range Awd (Juniper)
+Tesla,Model Y Long Range Rwd (Juniper),75,121,470,Tesla Model Y Long Range Rwd (Juniper)
+Tesla,Model Y Rwd (Juniper),60.5,121,375,Tesla Model Y Rwd (Juniper)
+Toyota,Proace Verso L 75 Kwh,68,204,260,Toyota Proace Verso L 75 Kwh
+Toyota,Proace Verso M 50 Kwh,46.3,217,180,Toyota Proace Verso M 50 Kwh
+Toyota,Proace Verso M 75 Kwh,68,202,260,Toyota Proace Verso M 75 Kwh
+Toyota,Proace City Verso Electric L1 50 Kwh,50,149,235,Toyota Proace City Verso Electric L1 50 Kwh
+Toyota,Proace City Verso Electric L2 50 Kwh,50,149,230,Toyota Proace City Verso Electric L2 50 Kwh
+Toyota,Bz4X Awd,64,154,345,Toyota Bz4X Awd
+Toyota,Bz4X Fwd,64,145,350,Toyota Bz4X Fwd
+Vinfast,Vf 8 Eco Extended Range,87.7,186,405,Vinfast Vf 8 Eco Extended Range
+Vinfast,Vf 8 Plus Extended Range,87.7,196,400,Vinfast Vf 8 Plus Extended Range
+Volkswagen,Id. Buzz Lwb Gtx,86,182,350,Volkswagen Id. Buzz Lwb Gtx
+Volkswagen,Id. Buzz Lwb Pro,86,190,370,Volkswagen Id. Buzz Lwb Pro
+Volkswagen,Id. Buzz Nwb Gtx,79,194,330,Volkswagen Id. Buzz Nwb Gtx
+Volkswagen,Id. Buzz Nwb Pro,79,187,360,Volkswagen Id. Buzz Nwb Pro
+Volkswagen,Id. Buzz Nwb Pure,59,178,275,Volkswagen Id. Buzz Nwb Pure
+Volkswagen,Id.3 Gtx,79,131,470,Volkswagen Id.3 Gtx
+Volkswagen,Id.3 Gtx Performance,79,131,465,Volkswagen Id.3 Gtx Performance
+Volkswagen,Id.3 Pro,59,136,365,Volkswagen Id.3 Pro
+Volkswagen,Id.3 Pro S,77,138,465,Volkswagen Id.3 Pro S
+Volkswagen,Id.3 Pure,52,134,325,Volkswagen Id.3 Pure
+Volkswagen,Id.4 Gtx,77,152,420,Volkswagen Id.4 Gtx
+Volkswagen,Id.4 Pro,77,149,445,Volkswagen Id.4 Pro
+Volkswagen,Id.4 Pro 4Motion,77,155,435,Volkswagen Id.4 Pro 4Motion
+Volkswagen,Id.4 Pure,52,143,285,Volkswagen Id.4 Pure
+Volkswagen,Id.5 Gtx,77,144,430,Volkswagen Id.5 Gtx
+Volkswagen,Id.5 Pro,77,138,460,Volkswagen Id.5 Pro
+Volkswagen,Id.5 Pure,52,142,320,Volkswagen Id.5 Pure
+Volkswagen,Id.7 Gtx,86,145,500,Volkswagen Id.7 Gtx
+Volkswagen,Id.7 Pro,77,132,475,Volkswagen Id.7 Pro
+Volkswagen,Id.7 Pro S,86,133,525,Volkswagen Id.7 Pro S
+Volkswagen,Id.7 Tourer Gtx,86,147,500,Volkswagen Id.7 Tourer Gtx
+Volkswagen,Id.7 Tourer Pro,77,146,470,Volkswagen Id.7 Tourer Pro
+Volkswagen,Id.7 Tourer Pro S,86,125,520,Volkswagen Id.7 Tourer Pro S
+Volvo,Ec40 Single Motor (My26),67,151,360,Volvo Ec40 Single Motor (My26)
+Volvo,Ec40 Single Motor Er (My26),79,146,420,Volvo Ec40 Single Motor Er (My26)
+Volvo,Ec40 Twin Motor (My26),79,155,400,Volvo Ec40 Twin Motor (My26)
+Volvo,Ec40 Twin Motor Performance (My26),79,155,400,Volvo Ec40 Twin Motor Performance (My26)
+Volvo,Es90 Single Motor (My26),88,135,485,Volvo Es90 Single Motor (My26)
+Volvo,Es90 Twin Motor (My26),102,146,530,Volvo Es90 Twin Motor (My26)
+Volvo,Es90 Twin Motor Performance (My26),102,146,530,Volvo Es90 Twin Motor Performance (My26)
+Volvo,Ex30 Cross Country (My26),65,152,330,Volvo Ex30 Cross Country (My26)
+Volvo,Ex30 Single Motor (My24-26),49,147,275,Volvo Ex30 Single Motor (My24-26)
+Volvo,Ex30 Single Motor Er (My24-26),65,138,365,Volvo Ex30 Single Motor Er (My24-26)
+Volvo,Ex30 Twin Motor Performance (My24-26),65,145,340,Volvo Ex30 Twin Motor Performance (My24-26)
+Volvo,Ex40 Single Motor (My26),67,154,345,Volvo Ex40 Single Motor (My26)
+Volvo,Ex40 Single Motor Er (My26),79,152,400,Volvo Ex40 Single Motor Er (My26)
+Volvo,Ex40 Twin Motor (My26),79,163,385,Volvo Ex40 Twin Motor (My26)
+Volvo,Ex40 Twin Motor Performance (My26),79,163,385,Volvo Ex40 Twin Motor Performance (My26)
+Volvo,Ex90 Single Motor (My24-26),100,182,460,Volvo Ex90 Single Motor (My24-26)
+Volvo,Ex90 Twin Motor (My24-26),107,188,470,Volvo Ex90 Twin Motor (My24-26)
+Volvo,Ex90 Twin Motor Performance (My24-26),107,188,455,Volvo Ex90 Twin Motor Performance (My24-26)
+Voyah,Free 106 Kwh,100,200,480,Voyah Free 106 Kwh
+Xpeng,G6 Awd Performance,87.5,159,475,Xpeng G6 Awd Performance
+Xpeng,G6 Rwd Long Range,87.5,154,480,Xpeng G6 Rwd Long Range
+Xpeng,G6 Rwd Standard Range,66,152,370,Xpeng G6 Rwd Standard Range
+Xpeng,G9 Awd Performance,93.1,179,465,Xpeng G9 Awd Performance
+Xpeng,G9 Rwd Long Range,93.1,163,480,Xpeng G9 Rwd Long Range
+Xpeng,G9 Rwd Standard Range,75.8,165,395,Xpeng G9 Rwd Standard Range
+Xpeng,P7 Awd Performance,82.7,164,460,Xpeng P7 Awd Performance
+Xpeng,P7 Rwd Long Range,82.7,144,495,Xpeng P7 Rwd Long Range
+Xpeng,P7 Wing Edition,82.7,164,455,Xpeng P7 Wing Edition
+Zeekr,001 Long Range Rwd,94,152,505,Zeekr 001 Long Range Rwd
+Zeekr,001 Performance Awd,94,159,480,Zeekr 001 Performance Awd
+Zeekr,001 Privilege Awd,94,162,480,Zeekr 001 Privilege Awd
+Zeekr,7X Long Range Rwd,94,153,475,Zeekr 7X Long Range Rwd
+Zeekr,7X Performance Awd,94,173,450,Zeekr 7X Performance Awd
+Zeekr,7X Premium Rwd,71,148,365,Zeekr 7X Premium Rwd
+Zeekr,X Core Rwd (My25),49,148,265,Zeekr X Core Rwd (My25)
+Zeekr,X Long Range Rwd (My25),65,146,360,Zeekr X Long Range Rwd (My25)
+Zeekr,X Privilege Awd (My25),65,153,350,Zeekr X Privilege Awd (My25)

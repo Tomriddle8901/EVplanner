@@ -1,0 +1,2387 @@
+{
+    "Abarth 500E Convertible": {
+        "battery_capacity_kWh": 37.8,
+        "efficiency_wh_per_km": 156,
+        "range_km": 225
+    },
+    "Abarth 500E Hatchback": {
+        "battery_capacity_kWh": 37.8,
+        "efficiency_wh_per_km": 149,
+        "range_km": 225
+    },
+    "Abarth 600E Scorpionissima": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 158,
+        "range_km": 280
+    },
+    "Abarth 600E Turismo": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 158,
+        "range_km": 280
+    },
+    "Aiways U5": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 156,
+        "range_km": 315
+    },
+    "Aiways U6": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 150,
+        "range_km": 350
+    },
+    "Alfa Romeo Junior Elettrica 54 Kwh": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 128,
+        "range_km": 320
+    },
+    "Alfa Romeo Junior Elettrica 54 Kwh Veloce": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 164,
+        "range_km": 310
+    },
+    "Alpine A290 Electric 180 Hp": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 138,
+        "range_km": 310
+    },
+    "Alpine A290 Electric 220 Hp": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 144,
+        "range_km": 305
+    },
+    "Audi A6 Avant E-Tron": {
+        "battery_capacity_kWh": 75.8,
+        "efficiency_wh_per_km": 146,
+        "range_km": 465
+    },
+    "Audi A6 Avant E-Tron Performance": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 151,
+        "range_km": 575
+    },
+    "Audi A6 Avant E-Tron Quattro": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 157,
+        "range_km": 560
+    },
+    "Audi A6 Sportback E-Tron": {
+        "battery_capacity_kWh": 75.8,
+        "efficiency_wh_per_km": 136,
+        "range_km": 495
+    },
+    "Audi A6 Sportback E-Tron Performance": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 141,
+        "range_km": 610
+    },
+    "Audi A6 Sportback E-Tron Quattro": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 147,
+        "range_km": 590
+    },
+    "Audi Q4 Sportback E-Tron 40": {
+        "battery_capacity_kWh": 59.0,
+        "efficiency_wh_per_km": 156,
+        "range_km": 340
+    },
+    "Audi Q4 Sportback E-Tron 45": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 162,
+        "range_km": 435
+    },
+    "Audi Q4 Sportback E-Tron 45 Quattro": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 165,
+        "range_km": 410
+    },
+    "Audi Q4 Sportback E-Tron 55 Quattro": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 165,
+        "range_km": 415
+    },
+    "Audi Q4 E-Tron 40": {
+        "battery_capacity_kWh": 59.0,
+        "efficiency_wh_per_km": 159,
+        "range_km": 325
+    },
+    "Audi Q4 E-Tron 45": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 169,
+        "range_km": 420
+    },
+    "Audi Q4 E-Tron 45 Quattro": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 171,
+        "range_km": 395
+    },
+    "Audi Q4 E-Tron 55 Quattro": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 171,
+        "range_km": 395
+    },
+    "Audi Q6 E-Tron": {
+        "battery_capacity_kWh": 75.8,
+        "efficiency_wh_per_km": 166,
+        "range_km": 395
+    },
+    "Audi Q6 E-Tron Sportback": {
+        "battery_capacity_kWh": 75.8,
+        "efficiency_wh_per_km": 139,
+        "range_km": 410
+    },
+    "Audi Q6 E-Tron Sportback Performance": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 145,
+        "range_km": 510
+    },
+    "Audi Q6 E-Tron Sportback Quattro": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 149,
+        "range_km": 500
+    },
+    "Audi Q6 E-Tron Performance": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 171,
+        "range_km": 490
+    },
+    "Audi Q6 E-Tron Quattro": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 176,
+        "range_km": 480
+    },
+    "Audi S6 Avant E-Tron": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 156,
+        "range_km": 530
+    },
+    "Audi S6 Sportback E-Tron": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 149,
+        "range_km": 555
+    },
+    "Audi Sq6 E-Tron": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 169,
+        "range_km": 470
+    },
+    "Audi Sq6 E-Tron Sportback": {
+        "battery_capacity_kWh": 94.9,
+        "efficiency_wh_per_km": 164,
+        "range_km": 495
+    },
+    "Audi E-Tron Gt Rs": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 184,
+        "range_km": 525
+    },
+    "Audi E-Tron Gt Rs Performance": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 182,
+        "range_km": 525
+    },
+    "Audi E-Tron Gt S": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 172,
+        "range_km": 540
+    },
+    "Audi E-Tron Gt Quattro": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 169,
+        "range_km": 540
+    },
+    "Bmw I4 M50": {
+        "battery_capacity_kWh": 81.3,
+        "efficiency_wh_per_km": 197,
+        "range_km": 450
+    },
+    "Bmw I4 Edrive35": {
+        "battery_capacity_kWh": 67.1,
+        "efficiency_wh_per_km": 174,
+        "range_km": 430
+    },
+    "Bmw I4 Edrive40": {
+        "battery_capacity_kWh": 81.3,
+        "efficiency_wh_per_km": 174,
+        "range_km": 515
+    },
+    "Bmw I4 Xdrive40": {
+        "battery_capacity_kWh": 81.3,
+        "efficiency_wh_per_km": 183,
+        "range_km": 490
+    },
+    "Bmw I5 M60 Xdrive Sedan (My25)": {
+        "battery_capacity_kWh": 81.2,
+        "efficiency_wh_per_km": 172,
+        "range_km": 430
+    },
+    "Bmw I5 M60 Xdrive Touring (My25)": {
+        "battery_capacity_kWh": 81.2,
+        "efficiency_wh_per_km": 179,
+        "range_km": 425
+    },
+    "Bmw I5 Edrive40 Sedan (My25)": {
+        "battery_capacity_kWh": 81.2,
+        "efficiency_wh_per_km": 159,
+        "range_km": 480
+    },
+    "Bmw I5 Edrive40 Touring (My25)": {
+        "battery_capacity_kWh": 81.2,
+        "efficiency_wh_per_km": 165,
+        "range_km": 465
+    },
+    "Bmw I5 Xdrive40 Sedan (My25)": {
+        "battery_capacity_kWh": 81.2,
+        "efficiency_wh_per_km": 167,
+        "range_km": 465
+    },
+    "Bmw I5 Xdrive40 Touring (My25)": {
+        "battery_capacity_kWh": 81.2,
+        "efficiency_wh_per_km": 174,
+        "range_km": 450
+    },
+    "Bmw I7 M70 Xdrive": {
+        "battery_capacity_kWh": 101.7,
+        "efficiency_wh_per_km": 208,
+        "range_km": 490
+    },
+    "Bmw I7 Edrive50": {
+        "battery_capacity_kWh": 101.7,
+        "efficiency_wh_per_km": 177,
+        "range_km": 520
+    },
+    "Bmw I7 Xdrive60": {
+        "battery_capacity_kWh": 101.7,
+        "efficiency_wh_per_km": 172,
+        "range_km": 510
+    },
+    "Bmw Ix M70 Xdrive": {
+        "battery_capacity_kWh": 108.9,
+        "efficiency_wh_per_km": 209,
+        "range_km": 500
+    },
+    "Bmw Ix Xdrive45": {
+        "battery_capacity_kWh": 94.8,
+        "efficiency_wh_per_km": 193,
+        "range_km": 470
+    },
+    "Bmw Ix Xdrive60": {
+        "battery_capacity_kWh": 109.1,
+        "efficiency_wh_per_km": 194,
+        "range_km": 525
+    },
+    "Bmw Ix1 Edrive20": {
+        "battery_capacity_kWh": 64.7,
+        "efficiency_wh_per_km": 150,
+        "range_km": 390
+    },
+    "Bmw Ix1 Xdrive30": {
+        "battery_capacity_kWh": 64.7,
+        "efficiency_wh_per_km": 155,
+        "range_km": 380
+    },
+    "Bmw Ix2 Edrive20": {
+        "battery_capacity_kWh": 64.7,
+        "efficiency_wh_per_km": 147,
+        "range_km": 395
+    },
+    "Bmw Ix2 Xdrive30": {
+        "battery_capacity_kWh": 64.7,
+        "efficiency_wh_per_km": 155,
+        "range_km": 385
+    },
+    "Byd Atto 2": {
+        "battery_capacity_kWh": 45.1,
+        "efficiency_wh_per_km": 145,
+        "range_km": 245
+    },
+    "Byd Atto 3 (My25)": {
+        "battery_capacity_kWh": 60.5,
+        "efficiency_wh_per_km": 144,
+        "range_km": 340
+    },
+    "Byd Dolphin 44.9 Kwh Active": {
+        "battery_capacity_kWh": 44.9,
+        "efficiency_wh_per_km": 132,
+        "range_km": 265
+    },
+    "Byd Dolphin 44.9 Kwh Boost": {
+        "battery_capacity_kWh": 44.9,
+        "efficiency_wh_per_km": 145,
+        "range_km": 260
+    },
+    "Byd Dolphin 60.4 Kwh": {
+        "battery_capacity_kWh": 60.5,
+        "efficiency_wh_per_km": 142,
+        "range_km": 350
+    },
+    "Byd Dolphin Surf 30 Kwh Active": {
+        "battery_capacity_kWh": 30.0,
+        "efficiency_wh_per_km": 136,
+        "range_km": 190
+    },
+    "Byd Dolphin Surf 43.2 Kwh Boost": {
+        "battery_capacity_kWh": 43.2,
+        "efficiency_wh_per_km": 134,
+        "range_km": 270
+    },
+    "Byd Dolphin Surf 43.2 Kwh Comfort": {
+        "battery_capacity_kWh": 43.2,
+        "efficiency_wh_per_km": 139,
+        "range_km": 265
+    },
+    "Byd Seal 61.4 Kwh Rwd Comfort": {
+        "battery_capacity_kWh": 61.4,
+        "efficiency_wh_per_km": 133,
+        "range_km": 365
+    },
+    "Byd Seal 82.5 Kwh Awd Excellence": {
+        "battery_capacity_kWh": 82.5,
+        "efficiency_wh_per_km": 159,
+        "range_km": 445
+    },
+    "Byd Seal 82.5 Kwh Rwd Design": {
+        "battery_capacity_kWh": 82.5,
+        "efficiency_wh_per_km": 145,
+        "range_km": 480
+    },
+    "Byd Seal U 71.8 Kwh Comfort": {
+        "battery_capacity_kWh": 71.8,
+        "efficiency_wh_per_km": 171,
+        "range_km": 360
+    },
+    "Byd Seal U 87 Kwh Design": {
+        "battery_capacity_kWh": 87.0,
+        "efficiency_wh_per_km": 174,
+        "range_km": 425
+    },
+    "Byd Sealion 7 82.5 Kwh Awd Design": {
+        "battery_capacity_kWh": 82.5,
+        "efficiency_wh_per_km": 181,
+        "range_km": 400
+    },
+    "Byd Sealion 7 82.5 Kwh Rwd Comfort": {
+        "battery_capacity_kWh": 82.5,
+        "efficiency_wh_per_km": 171,
+        "range_km": 415
+    },
+    "Byd Sealion 7 91.3 Kwh Awd Excellence": {
+        "battery_capacity_kWh": 91.3,
+        "efficiency_wh_per_km": 182,
+        "range_km": 430
+    },
+    "Byd Tang Flagship": {
+        "battery_capacity_kWh": 108.8,
+        "efficiency_wh_per_km": 205,
+        "range_km": 460
+    },
+    "Cupra Born 170 Kw - 59 Kwh": {
+        "battery_capacity_kWh": 59.0,
+        "efficiency_wh_per_km": 156,
+        "range_km": 360
+    },
+    "Cupra Born 170 Kw - 77 Kwh": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 157,
+        "range_km": 460
+    },
+    "Cupra Born Vz": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 465
+    },
+    "Cupra Tavascan Endurance": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 142,
+        "range_km": 445
+    },
+    "Cupra Tavascan Vz": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 150,
+        "range_km": 425
+    },
+    "Cadillac Lyriq 600 E4": {
+        "battery_capacity_kWh": 102.0,
+        "efficiency_wh_per_km": 192,
+        "range_km": 460
+    },
+    "Citroen E-Berlingo M 50 Kwh": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 235
+    },
+    "Citroen E-Berlingo Xl 50 Kwh": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 230
+    },
+    "Citroen E-C3": {
+        "battery_capacity_kWh": 44.0,
+        "efficiency_wh_per_km": 135,
+        "range_km": 255
+    },
+    "Citroen E-C3 Aircross": {
+        "battery_capacity_kWh": 44.0,
+        "efficiency_wh_per_km": 144,
+        "range_km": 240
+    },
+    "Citroen E-C4": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 135,
+        "range_km": 285
+    },
+    "Citroen E-C4 54 Kwh": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 122,
+        "range_km": 325
+    },
+    "Citroen E-C4 X": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 132,
+        "range_km": 290
+    },
+    "Citroen E-C4 X 54 Kwh": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 119,
+        "range_km": 335
+    },
+    "Citroen E-Spacetourer M 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 217,
+        "range_km": 180
+    },
+    "Citroen E-Spacetourer M 75 Kwh": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 202,
+        "range_km": 260
+    },
+    "Citroen E-Spacetourer Xl 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 219,
+        "range_km": 180
+    },
+    "Citroen E-Spacetourer Xl 75 Kwh": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 204,
+        "range_km": 260
+    },
+    "Ds 3 E-Tense": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 128,
+        "range_km": 300
+    },
+    "Ds N\u00b04 E-Tense": {
+        "battery_capacity_kWh": 58.3,
+        "efficiency_wh_per_km": 130,
+        "range_km": 375
+    },
+    "Ds N\u00b08 Awd Long Range": {
+        "battery_capacity_kWh": 97.2,
+        "efficiency_wh_per_km": 146,
+        "range_km": 530
+    },
+    "Ds N\u00b08 Fwd": {
+        "battery_capacity_kWh": 73.7,
+        "efficiency_wh_per_km": 141,
+        "range_km": 415
+    },
+    "Ds N\u00b08 Fwd Long Range": {
+        "battery_capacity_kWh": 97.2,
+        "efficiency_wh_per_km": 136,
+        "range_km": 545
+    },
+    "Dacia Spring Electric 45": {
+        "battery_capacity_kWh": 25.0,
+        "efficiency_wh_per_km": 109,
+        "range_km": 165
+    },
+    "Dacia Spring Electric 65": {
+        "battery_capacity_kWh": 25.0,
+        "efficiency_wh_per_km": 114,
+        "range_km": 160
+    },
+    "Dongfeng Box 31.4 Kwh": {
+        "battery_capacity_kWh": 29.0,
+        "efficiency_wh_per_km": 126,
+        "range_km": 190
+    },
+    "Dongfeng Box 42.3 Kwh": {
+        "battery_capacity_kWh": 40.0,
+        "efficiency_wh_per_km": 129,
+        "range_km": 255
+    },
+    "Elaris Beo 86 Kwh": {
+        "battery_capacity_kWh": 81.0,
+        "efficiency_wh_per_km": 203,
+        "range_km": 390
+    },
+    "Fiat 500E 3+1 24 Kwh": {
+        "battery_capacity_kWh": 21.3,
+        "efficiency_wh_per_km": 112,
+        "range_km": 135
+    },
+    "Fiat 500E 3+1 42 Kwh": {
+        "battery_capacity_kWh": 37.3,
+        "efficiency_wh_per_km": 122,
+        "range_km": 235
+    },
+    "Fiat 500E Cabrio 24 Kwh": {
+        "battery_capacity_kWh": 21.3,
+        "efficiency_wh_per_km": 112,
+        "range_km": 135
+    },
+    "Fiat 500E Cabrio 42 Kwh": {
+        "battery_capacity_kWh": 37.3,
+        "efficiency_wh_per_km": 125,
+        "range_km": 230
+    },
+    "Fiat 500E Hatchback 24 Kwh": {
+        "battery_capacity_kWh": 21.3,
+        "efficiency_wh_per_km": 112,
+        "range_km": 135
+    },
+    "Fiat 500E Hatchback 42 Kwh": {
+        "battery_capacity_kWh": 37.3,
+        "efficiency_wh_per_km": 118,
+        "range_km": 235
+    },
+    "Fiat 600E": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 124,
+        "range_km": 310
+    },
+    "Fiat Grande Panda": {
+        "battery_capacity_kWh": 43.8,
+        "efficiency_wh_per_km": 136,
+        "range_km": 260
+    },
+    "Ford Capri Extended Range Awd": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 148,
+        "range_km": 455
+    },
+    "Ford Capri Extended Range Rwd": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 135,
+        "range_km": 455
+    },
+    "Ford Capri Standard Range Rwd": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 163,
+        "range_km": 320
+    },
+    "Ford Explorer Extended Range Awd": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 153,
+        "range_km": 440
+    },
+    "Ford Explorer Extended Range Rwd": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 139,
+        "range_km": 435
+    },
+    "Ford Explorer Standard Range Rwd": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 137,
+        "range_km": 305
+    },
+    "Ford Mustang Mach-E Er Awd (My25)": {
+        "battery_capacity_kWh": 88.0,
+        "efficiency_wh_per_km": 160,
+        "range_km": 435
+    },
+    "Ford Mustang Mach-E Er Awd (My24)": {
+        "battery_capacity_kWh": 91.0,
+        "efficiency_wh_per_km": 165,
+        "range_km": 445
+    },
+    "Ford Mustang Mach-E Er Rwd (My25)": {
+        "battery_capacity_kWh": 88.0,
+        "efficiency_wh_per_km": 147,
+        "range_km": 475
+    },
+    "Ford Mustang Mach-E Er Rwd (My24)": {
+        "battery_capacity_kWh": 91.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 480
+    },
+    "Ford Mustang Mach-E Gt (My24)": {
+        "battery_capacity_kWh": 91.0,
+        "efficiency_wh_per_km": 177,
+        "range_km": 425
+    },
+    "Ford Mustang Mach-E Gt (My25)": {
+        "battery_capacity_kWh": 91.0,
+        "efficiency_wh_per_km": 177,
+        "range_km": 435
+    },
+    "Ford Mustang Mach-E Rally (My25)": {
+        "battery_capacity_kWh": 91.0,
+        "efficiency_wh_per_km": 178,
+        "range_km": 415
+    },
+    "Ford Mustang Mach-E Rally (My24)": {
+        "battery_capacity_kWh": 91.0,
+        "efficiency_wh_per_km": 178,
+        "range_km": 410
+    },
+    "Ford Mustang Mach-E Sr Rwd (My24)": {
+        "battery_capacity_kWh": 72.6,
+        "efficiency_wh_per_km": 154,
+        "range_km": 385
+    },
+    "Ford Mustang Mach-E Sr Rwd (My25)": {
+        "battery_capacity_kWh": 72.6,
+        "efficiency_wh_per_km": 154,
+        "range_km": 380
+    },
+    "Ford Puma Gen-E": {
+        "battery_capacity_kWh": 43.6,
+        "efficiency_wh_per_km": 126,
+        "range_km": 275
+    },
+    "Ford E-Tourneo Courier": {
+        "battery_capacity_kWh": 43.6,
+        "efficiency_wh_per_km": 164,
+        "range_km": 200
+    },
+    "Ford E-Tourneo Custom L1 160 Kw": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 370,
+        "range_km": 235
+    },
+    "Ford E-Tourneo Custom L1 210 Kw": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 370,
+        "range_km": 235
+    },
+    "Ford E-Tourneo Custom L2 160 Kw": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 370,
+        "range_km": 235
+    },
+    "Ford E-Tourneo Custom L2 210 Kw": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 370,
+        "range_km": 235
+    },
+    "Gwm Ora 03 48 Kwh": {
+        "battery_capacity_kWh": 45.4,
+        "efficiency_wh_per_km": 146,
+        "range_km": 260
+    },
+    "Gwm Ora 03 63 Kwh": {
+        "battery_capacity_kWh": 59.3,
+        "efficiency_wh_per_km": 141,
+        "range_km": 340
+    },
+    "Gwm Ora 03 Gt": {
+        "battery_capacity_kWh": 59.3,
+        "efficiency_wh_per_km": 148,
+        "range_km": 325
+    },
+    "Gwm Ora 07 Gt": {
+        "battery_capacity_kWh": 83.5,
+        "efficiency_wh_per_km": 161,
+        "range_km": 430
+    },
+    "Gwm Ora 07 Pro": {
+        "battery_capacity_kWh": 64.3,
+        "efficiency_wh_per_km": 146,
+        "range_km": 350
+    },
+    "Gwm Ora 07 Pure": {
+        "battery_capacity_kWh": 64.3,
+        "efficiency_wh_per_km": 146,
+        "range_km": 350
+    },
+    "Genesis G80 Electrified Luxury": {
+        "battery_capacity_kWh": 82.5,
+        "efficiency_wh_per_km": 159,
+        "range_km": 440
+    },
+    "Genesis Gv60 Premium": {
+        "battery_capacity_kWh": 74.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 390
+    },
+    "Genesis Gv60 Sport": {
+        "battery_capacity_kWh": 74.0,
+        "efficiency_wh_per_km": 157,
+        "range_km": 375
+    },
+    "Genesis Gv60 Sport Plus": {
+        "battery_capacity_kWh": 74.0,
+        "efficiency_wh_per_km": 159,
+        "range_km": 360
+    },
+    "Genesis Gv70 Electrified Sport": {
+        "battery_capacity_kWh": 74.0,
+        "efficiency_wh_per_km": 163,
+        "range_km": 350
+    },
+    "Honda E:Ny1": {
+        "battery_capacity_kWh": 61.9,
+        "efficiency_wh_per_km": 150,
+        "range_km": 335
+    },
+    "Hongqi E-Hs9 120 Kwh": {
+        "battery_capacity_kWh": 112.0,
+        "efficiency_wh_per_km": 217,
+        "range_km": 455
+    },
+    "Hongqi E-Hs9 84 Kwh": {
+        "battery_capacity_kWh": 76.5,
+        "efficiency_wh_per_km": 193,
+        "range_km": 320
+    },
+    "Hongqi E-Hs9 99 Kwh": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 194,
+        "range_km": 370
+    },
+    "Hyundai Inster Long Range": {
+        "battery_capacity_kWh": 46.0,
+        "efficiency_wh_per_km": 124,
+        "range_km": 300
+    },
+    "Hyundai Inster Standard Range": {
+        "battery_capacity_kWh": 39.0,
+        "efficiency_wh_per_km": 119,
+        "range_km": 255
+    },
+    "Hyundai Ioniq 5 63 Kwh Rwd (My24)": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 136,
+        "range_km": 345
+    },
+    "Hyundai Ioniq 5 84 Kwh Awd (My24)": {
+        "battery_capacity_kWh": 80.0,
+        "efficiency_wh_per_km": 162,
+        "range_km": 445
+    },
+    "Hyundai Ioniq 5 84 Kwh Rwd (My24)": {
+        "battery_capacity_kWh": 80.0,
+        "efficiency_wh_per_km": 155,
+        "range_km": 450
+    },
+    "Hyundai Ioniq 5 N (My24)": {
+        "battery_capacity_kWh": 80.0,
+        "efficiency_wh_per_km": 179,
+        "range_km": 390
+    },
+    "Hyundai Ioniq 6 Long Range 2Wd": {
+        "battery_capacity_kWh": 74.0,
+        "efficiency_wh_per_km": 136,
+        "range_km": 495
+    },
+    "Hyundai Ioniq 6 Long Range Awd": {
+        "battery_capacity_kWh": 74.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 440
+    },
+    "Hyundai Ioniq 6 Standard Range 2Wd": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 117,
+        "range_km": 335
+    },
+    "Hyundai Ioniq 9 Long Range Awd": {
+        "battery_capacity_kWh": 106.0,
+        "efficiency_wh_per_km": 177,
+        "range_km": 490
+    },
+    "Hyundai Ioniq 9 Long Range Rwd": {
+        "battery_capacity_kWh": 106.0,
+        "efficiency_wh_per_km": 171,
+        "range_km": 500
+    },
+    "Hyundai Ioniq 9 Performance Awd": {
+        "battery_capacity_kWh": 106.0,
+        "efficiency_wh_per_km": 177,
+        "range_km": 480
+    },
+    "Hyundai Kona Electric 48 Kwh": {
+        "battery_capacity_kWh": 48.4,
+        "efficiency_wh_per_km": 128,
+        "range_km": 295
+    },
+    "Hyundai Kona Electric 65 Kwh": {
+        "battery_capacity_kWh": 65.4,
+        "efficiency_wh_per_km": 144,
+        "range_km": 390
+    },
+    "Jaguar I-Pace Ev400": {
+        "battery_capacity_kWh": 84.7,
+        "efficiency_wh_per_km": 208,
+        "range_km": 380
+    },
+    "Jeep Avenger Electric": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 132,
+        "range_km": 310
+    },
+    "Jeep Compass Electric 74 Kwh": {
+        "battery_capacity_kWh": 74.0,
+        "efficiency_wh_per_km": 148,
+        "range_km": 370
+    },
+    "Kgm Torres Evx": {
+        "battery_capacity_kWh": 72.0,
+        "efficiency_wh_per_km": 156,
+        "range_km": 370
+    },
+    "Kia Ev3 Long Range": {
+        "battery_capacity_kWh": 78.0,
+        "efficiency_wh_per_km": 139,
+        "range_km": 455
+    },
+    "Kia Ev3 Standard Range": {
+        "battery_capacity_kWh": 55.0,
+        "efficiency_wh_per_km": 133,
+        "range_km": 325
+    },
+    "Kia Ev4 Hatchback Long Range": {
+        "battery_capacity_kWh": 78.0,
+        "efficiency_wh_per_km": 132,
+        "range_km": 475
+    },
+    "Kia Ev4 Hatchback Standard Range": {
+        "battery_capacity_kWh": 55.0,
+        "efficiency_wh_per_km": 134,
+        "range_km": 340
+    },
+    "Kia Ev4 Sedan Long Range": {
+        "battery_capacity_kWh": 78.0,
+        "efficiency_wh_per_km": 124,
+        "range_km": 495
+    },
+    "Kia Ev4 Sedan Standard Range": {
+        "battery_capacity_kWh": 55.0,
+        "efficiency_wh_per_km": 128,
+        "range_km": 355
+    },
+    "Kia Ev6 Gt": {
+        "battery_capacity_kWh": 80.0,
+        "efficiency_wh_per_km": 178,
+        "range_km": 385
+    },
+    "Kia Ev6 Long Range 2Wd": {
+        "battery_capacity_kWh": 80.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 455
+    },
+    "Kia Ev6 Long Range Awd": {
+        "battery_capacity_kWh": 80.0,
+        "efficiency_wh_per_km": 154,
+        "range_km": 440
+    },
+    "Kia Ev6 Standard Range 2Wd": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 140,
+        "range_km": 345
+    },
+    "Kia Ev9 76.1 Kwh Rwd": {
+        "battery_capacity_kWh": 73.0,
+        "efficiency_wh_per_km": 165,
+        "range_km": 355
+    },
+    "Kia Ev9 99.8 Kwh Awd": {
+        "battery_capacity_kWh": 96.0,
+        "efficiency_wh_per_km": 188,
+        "range_km": 435
+    },
+    "Kia Ev9 99.8 Kwh Awd Gt": {
+        "battery_capacity_kWh": 96.0,
+        "efficiency_wh_per_km": 190,
+        "range_km": 420
+    },
+    "Kia Ev9 99.8 Kwh Awd Gt-Line": {
+        "battery_capacity_kWh": 96.0,
+        "efficiency_wh_per_km": 190,
+        "range_km": 425
+    },
+    "Kia Ev9 99.8 Kwh Rwd": {
+        "battery_capacity_kWh": 96.0,
+        "efficiency_wh_per_km": 171,
+        "range_km": 450
+    },
+    "Kia Niro Ev": {
+        "battery_capacity_kWh": 64.8,
+        "efficiency_wh_per_km": 140,
+        "range_km": 385
+    },
+    "Lancia Ypsilon": {
+        "battery_capacity_kWh": 48.1,
+        "efficiency_wh_per_km": 122,
+        "range_km": 310
+    },
+    "Leapmotor C10": {
+        "battery_capacity_kWh": 69.9,
+        "efficiency_wh_per_km": 166,
+        "range_km": 350
+    },
+    "Leapmotor T03": {
+        "battery_capacity_kWh": 36.0,
+        "efficiency_wh_per_km": 136,
+        "range_km": 225
+    },
+    "Lexus Rz 300E": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 365
+    },
+    "Lexus Rz 450E": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 158,
+        "range_km": 350
+    },
+    "Lexus Ux 300E": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 145,
+        "range_km": 340
+    },
+    "Lotus Eletre": {
+        "battery_capacity_kWh": 109.0,
+        "efficiency_wh_per_km": 204,
+        "range_km": 495
+    },
+    "Lotus Eletre R": {
+        "battery_capacity_kWh": 109.0,
+        "efficiency_wh_per_km": 266,
+        "range_km": 455
+    },
+    "Lotus Eletre S": {
+        "battery_capacity_kWh": 109.0,
+        "efficiency_wh_per_km": 222,
+        "range_km": 480
+    },
+    "Lotus Emeya": {
+        "battery_capacity_kWh": 98.9,
+        "efficiency_wh_per_km": 198,
+        "range_km": 520
+    },
+    "Lotus Emeya R": {
+        "battery_capacity_kWh": 98.9,
+        "efficiency_wh_per_km": 227,
+        "range_km": 465
+    },
+    "Lotus Emeya S": {
+        "battery_capacity_kWh": 98.9,
+        "efficiency_wh_per_km": 198,
+        "range_km": 520
+    },
+    "Lucid Air Grand Touring": {
+        "battery_capacity_kWh": 112.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 665
+    },
+    "Lucid Air Pure Rwd": {
+        "battery_capacity_kWh": 92.0,
+        "efficiency_wh_per_km": 130,
+        "range_km": 565
+    },
+    "Lucid Air Touring": {
+        "battery_capacity_kWh": 92.0,
+        "efficiency_wh_per_km": 142,
+        "range_km": 580
+    },
+    "Lynk&Co 02": {
+        "battery_capacity_kWh": 65.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 370
+    },
+    "Mg Cyberster Gt": {
+        "battery_capacity_kWh": 74.4,
+        "efficiency_wh_per_km": 168,
+        "range_km": 395
+    },
+    "Mg Cyberster Trophy": {
+        "battery_capacity_kWh": 74.4,
+        "efficiency_wh_per_km": 146,
+        "range_km": 425
+    },
+    "Mg 4 Electric 51 Kwh": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 145,
+        "range_km": 300
+    },
+    "Mg 4 Electric 64 Kwh": {
+        "battery_capacity_kWh": 61.7,
+        "efficiency_wh_per_km": 142,
+        "range_km": 360
+    },
+    "Mg 4 Electric 77 Kwh": {
+        "battery_capacity_kWh": 74.4,
+        "efficiency_wh_per_km": 143,
+        "range_km": 425
+    },
+    "Mg 4 Electric Xpower": {
+        "battery_capacity_kWh": 61.7,
+        "efficiency_wh_per_km": 160,
+        "range_km": 320
+    },
+    "Mg 5 Electric Long Range": {
+        "battery_capacity_kWh": 57.4,
+        "efficiency_wh_per_km": 151,
+        "range_km": 335
+    },
+    "Mg 5 Electric Standard Range": {
+        "battery_capacity_kWh": 46.0,
+        "efficiency_wh_per_km": 148,
+        "range_km": 265
+    },
+    "Mg S5  Ev 49 Kwh": {
+        "battery_capacity_kWh": 47.1,
+        "efficiency_wh_per_km": 139,
+        "range_km": 275
+    },
+    "Mg S5  Ev 64 Kwh": {
+        "battery_capacity_kWh": 62.1,
+        "efficiency_wh_per_km": 134,
+        "range_km": 365
+    },
+    "Mg Zs Ev Long Range": {
+        "battery_capacity_kWh": 68.3,
+        "efficiency_wh_per_km": 155,
+        "range_km": 370
+    },
+    "Mg Zs Ev Standard Range": {
+        "battery_capacity_kWh": 49.0,
+        "efficiency_wh_per_km": 153,
+        "range_km": 265
+    },
+    "Maserati Grancabrio Folgore": {
+        "battery_capacity_kWh": 83.0,
+        "efficiency_wh_per_km": 198,
+        "range_km": 395
+    },
+    "Maserati Granturismo Folgore": {
+        "battery_capacity_kWh": 83.0,
+        "efficiency_wh_per_km": 182,
+        "range_km": 420
+    },
+    "Maserati Grecale Folgore": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 220,
+        "range_km": 400
+    },
+    "Maxus Mifa 9": {
+        "battery_capacity_kWh": 84.0,
+        "efficiency_wh_per_km": 195,
+        "range_km": 365
+    },
+    "Mazda 6E 68.8 Kwh": {
+        "battery_capacity_kWh": 66.0,
+        "efficiency_wh_per_km": 138,
+        "range_km": 390
+    },
+    "Mazda 6E Long Range 80 Kwh": {
+        "battery_capacity_kWh": 75.0,
+        "efficiency_wh_per_km": 136,
+        "range_km": 440
+    },
+    "Mercedes-Benz Cla 250+": {
+        "battery_capacity_kWh": 85.0,
+        "efficiency_wh_per_km": 122,
+        "range_km": 565
+    },
+    "Mercedes-Benz Cla 350 4Matic": {
+        "battery_capacity_kWh": 85.0,
+        "efficiency_wh_per_km": 126,
+        "range_km": 550
+    },
+    "Mercedes-Benz Eqa 250": {
+        "battery_capacity_kWh": 66.5,
+        "efficiency_wh_per_km": 146,
+        "range_km": 395
+    },
+    "Mercedes-Benz Eqa 250+": {
+        "battery_capacity_kWh": 70.5,
+        "efficiency_wh_per_km": 142,
+        "range_km": 420
+    },
+    "Mercedes-Benz Eqa 300 4Matic": {
+        "battery_capacity_kWh": 66.5,
+        "efficiency_wh_per_km": 162,
+        "range_km": 350
+    },
+    "Mercedes-Benz Eqa 350 4Matic": {
+        "battery_capacity_kWh": 66.5,
+        "efficiency_wh_per_km": 162,
+        "range_km": 350
+    },
+    "Mercedes-Benz Eqb 250+": {
+        "battery_capacity_kWh": 70.5,
+        "efficiency_wh_per_km": 152,
+        "range_km": 415
+    },
+    "Mercedes-Benz Eqb 300 4Matic": {
+        "battery_capacity_kWh": 66.5,
+        "efficiency_wh_per_km": 168,
+        "range_km": 345
+    },
+    "Mercedes-Benz Eqb 350 4Matic": {
+        "battery_capacity_kWh": 66.5,
+        "efficiency_wh_per_km": 168,
+        "range_km": 345
+    },
+    "Mercedes-Benz Eqe 300": {
+        "battery_capacity_kWh": 89.0,
+        "efficiency_wh_per_km": 163,
+        "range_km": 525
+    },
+    "Mercedes-Benz Eqe 350 4Matic": {
+        "battery_capacity_kWh": 90.6,
+        "efficiency_wh_per_km": 173,
+        "range_km": 515
+    },
+    "Mercedes-Benz Eqe 350+": {
+        "battery_capacity_kWh": 96.0,
+        "efficiency_wh_per_km": 164,
+        "range_km": 555
+    },
+    "Mercedes-Benz Eqe 500 4Matic": {
+        "battery_capacity_kWh": 90.6,
+        "efficiency_wh_per_km": 173,
+        "range_km": 505
+    },
+    "Mercedes-Benz Eqe Amg 43 4Matic": {
+        "battery_capacity_kWh": 90.6,
+        "efficiency_wh_per_km": 207,
+        "range_km": 450
+    },
+    "Mercedes-Benz Eqe Amg 53 4Matic+": {
+        "battery_capacity_kWh": 90.6,
+        "efficiency_wh_per_km": 208,
+        "range_km": 450
+    },
+    "Mercedes-Benz Eqe Suv 300": {
+        "battery_capacity_kWh": 90.6,
+        "efficiency_wh_per_km": 182,
+        "range_km": 450
+    },
+    "Mercedes-Benz Eqe Suv 350 4Matic": {
+        "battery_capacity_kWh": 90.6,
+        "efficiency_wh_per_km": 189,
+        "range_km": 435
+    },
+    "Mercedes-Benz Eqe Suv 350+": {
+        "battery_capacity_kWh": 96.0,
+        "efficiency_wh_per_km": 164,
+        "range_km": 475
+    },
+    "Mercedes-Benz Eqe Suv 500 4Matic": {
+        "battery_capacity_kWh": 96.0,
+        "efficiency_wh_per_km": 187,
+        "range_km": 455
+    },
+    "Mercedes-Benz Eqe Suv Amg 43 4Matic": {
+        "battery_capacity_kWh": 90.6,
+        "efficiency_wh_per_km": 214,
+        "range_km": 425
+    },
+    "Mercedes-Benz Eqe Suv Amg 53 4Matic+": {
+        "battery_capacity_kWh": 90.6,
+        "efficiency_wh_per_km": 242,
+        "range_km": 420
+    },
+    "Mercedes-Benz Eqs 350": {
+        "battery_capacity_kWh": 96.0,
+        "efficiency_wh_per_km": 165,
+        "range_km": 570
+    },
+    "Mercedes-Benz Eqs 450 4Matic": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 180,
+        "range_km": 655
+    },
+    "Mercedes-Benz Eqs 450+": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 173,
+        "range_km": 685
+    },
+    "Mercedes-Benz Eqs 500 4Matic": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 180,
+        "range_km": 640
+    },
+    "Mercedes-Benz Eqs 580 4Matic": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 180,
+        "range_km": 640
+    },
+    "Mercedes-Benz Eqs Amg 53 4Matic+": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 222,
+        "range_km": 585
+    },
+    "Mercedes-Benz Eqs Suv 450 4Matic": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 199,
+        "range_km": 530
+    },
+    "Mercedes-Benz Eqs Suv 450+": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 195,
+        "range_km": 540
+    },
+    "Mercedes-Benz Eqs Suv 500 4Matic": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 199,
+        "range_km": 530
+    },
+    "Mercedes-Benz Eqs Suv 580 4Matic": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 199,
+        "range_km": 530
+    },
+    "Mercedes-Benz Eqs Suv Maybach 680": {
+        "battery_capacity_kWh": 118.0,
+        "efficiency_wh_per_km": 211,
+        "range_km": 490
+    },
+    "Mercedes-Benz Eqt 200 Long": {
+        "battery_capacity_kWh": 45.0,
+        "efficiency_wh_per_km": 177,
+        "range_km": 220
+    },
+    "Mercedes-Benz Eqt 200 Standard": {
+        "battery_capacity_kWh": 45.0,
+        "efficiency_wh_per_km": 167,
+        "range_km": 225
+    },
+    "Mercedes-Benz Eqv 250 Extra-Long": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 282,
+        "range_km": 210
+    },
+    "Mercedes-Benz Eqv 250 Long": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 282,
+        "range_km": 215
+    },
+    "Mercedes-Benz Eqv 300 Extra-Long": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 249,
+        "range_km": 315
+    },
+    "Mercedes-Benz Eqv 300 Long": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 276,
+        "range_km": 320
+    },
+    "Mercedes-Benz G 580": {
+        "battery_capacity_kWh": 116.0,
+        "efficiency_wh_per_km": 267,
+        "range_km": 360
+    },
+    "Mercedes-Benz Evito Tourer Extra-Long 60 Kwh": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 254,
+        "range_km": 215
+    },
+    "Mercedes-Benz Evito Tourer Long 60 Kwh": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 259,
+        "range_km": 220
+    },
+    "Mercedes-Benz Evito Tourer Long 90 Kwh": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 260,
+        "range_km": 325
+    },
+    "Mini Aceman E": {
+        "battery_capacity_kWh": 38.5,
+        "efficiency_wh_per_km": 129,
+        "range_km": 230
+    },
+    "Mini Aceman Jcw": {
+        "battery_capacity_kWh": 49.2,
+        "efficiency_wh_per_km": 143,
+        "range_km": 280
+    },
+    "Mini Aceman Se": {
+        "battery_capacity_kWh": 49.2,
+        "efficiency_wh_per_km": 129,
+        "range_km": 290
+    },
+    "Mini Cooper E": {
+        "battery_capacity_kWh": 36.6,
+        "efficiency_wh_per_km": 125,
+        "range_km": 250
+    },
+    "Mini Cooper Jcw": {
+        "battery_capacity_kWh": 49.2,
+        "efficiency_wh_per_km": 135,
+        "range_km": 290
+    },
+    "Mini Cooper Se": {
+        "battery_capacity_kWh": 49.2,
+        "efficiency_wh_per_km": 127,
+        "range_km": 330
+    },
+    "Mini Countryman E": {
+        "battery_capacity_kWh": 64.6,
+        "efficiency_wh_per_km": 140,
+        "range_km": 380
+    },
+    "Mini Countryman Se All4": {
+        "battery_capacity_kWh": 64.6,
+        "efficiency_wh_per_km": 149,
+        "range_km": 365
+    },
+    "Nio El6 Long Range": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 170,
+        "range_km": 435
+    },
+    "Nio El6 Standard Range": {
+        "battery_capacity_kWh": 73.5,
+        "efficiency_wh_per_km": 181,
+        "range_km": 365
+    },
+    "Nio El7 Long Range": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 185,
+        "range_km": 430
+    },
+    "Nio El7 Standard Range": {
+        "battery_capacity_kWh": 73.5,
+        "efficiency_wh_per_km": 198,
+        "range_km": 355
+    },
+    "Nio El8 Long Range": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 185,
+        "range_km": 440
+    },
+    "Nio El8 Standard Range": {
+        "battery_capacity_kWh": 73.5,
+        "efficiency_wh_per_km": 196,
+        "range_km": 360
+    },
+    "Nio Et5 Long Range": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 167,
+        "range_km": 500
+    },
+    "Nio Et5 Standard Range": {
+        "battery_capacity_kWh": 73.5,
+        "efficiency_wh_per_km": 175,
+        "range_km": 410
+    },
+    "Nio Et5 Touring Long Range": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 178,
+        "range_km": 485
+    },
+    "Nio Et5 Touring Standard Range": {
+        "battery_capacity_kWh": 73.5,
+        "efficiency_wh_per_km": 169,
+        "range_km": 400
+    },
+    "Nio Et7 Long Range": {
+        "battery_capacity_kWh": 90.0,
+        "efficiency_wh_per_km": 178,
+        "range_km": 505
+    },
+    "Nio Et7 Standard Range": {
+        "battery_capacity_kWh": 73.5,
+        "efficiency_wh_per_km": 191,
+        "range_km": 415
+    },
+    "Nissan Ariya 63Kwh": {
+        "battery_capacity_kWh": 63.0,
+        "efficiency_wh_per_km": 175,
+        "range_km": 335
+    },
+    "Nissan Ariya 87Kwh": {
+        "battery_capacity_kWh": 87.0,
+        "efficiency_wh_per_km": 169,
+        "range_km": 450
+    },
+    "Nissan Ariya E-4Orce 87Kwh - 225 Kw": {
+        "battery_capacity_kWh": 87.0,
+        "efficiency_wh_per_km": 190,
+        "range_km": 405
+    },
+    "Nissan Ariya E-4Orce 87Kwh - 320 Kw Nismo": {
+        "battery_capacity_kWh": 87.0,
+        "efficiency_wh_per_km": 209,
+        "range_km": 385
+    },
+    "Nissan Townstar Ev Passenger": {
+        "battery_capacity_kWh": 45.0,
+        "efficiency_wh_per_km": 158,
+        "range_km": 225
+    },
+    "Nissan Townstar Ev Passenger L2": {
+        "battery_capacity_kWh": 45.0,
+        "efficiency_wh_per_km": 173,
+        "range_km": 220
+    },
+    "Omoda E5": {
+        "battery_capacity_kWh": 61.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 345
+    },
+    "Opel Astra Electric": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 128,
+        "range_km": 320
+    },
+    "Opel Astra Sports Tourer Electric": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 123,
+        "range_km": 310
+    },
+    "Opel Combo-E Life 50 Kwh": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 235
+    },
+    "Opel Combo-E Life Xl 50 Kwh": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 230
+    },
+    "Opel Corsa Electric 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 131,
+        "range_km": 290
+    },
+    "Opel Corsa Electric 51 Kwh": {
+        "battery_capacity_kWh": 48.1,
+        "efficiency_wh_per_km": 120,
+        "range_km": 315
+    },
+    "Opel Frontera 44 Kwh": {
+        "battery_capacity_kWh": 44.0,
+        "efficiency_wh_per_km": 144,
+        "range_km": 245
+    },
+    "Opel Grandland 73 Kwh": {
+        "battery_capacity_kWh": 73.0,
+        "efficiency_wh_per_km": 145,
+        "range_km": 365
+    },
+    "Opel Grandland 82 Kwh": {
+        "battery_capacity_kWh": 82.2,
+        "efficiency_wh_per_km": 146,
+        "range_km": 410
+    },
+    "Opel Mokka Electric": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 126,
+        "range_km": 285
+    },
+    "Opel Zafira-E Life L2 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 217,
+        "range_km": 180
+    },
+    "Opel Zafira-E Life L2 75 Kwh": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 202,
+        "range_km": 260
+    },
+    "Opel Zafira-E Life L3 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 219,
+        "range_km": 180
+    },
+    "Opel Zafira-E Life L3 75 Kwh": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 204,
+        "range_km": 260
+    },
+    "Peugeot E-2008 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 136,
+        "range_km": 270
+    },
+    "Peugeot E-2008 54 Kwh": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 125,
+        "range_km": 300
+    },
+    "Peugeot E-208 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 132,
+        "range_km": 290
+    },
+    "Peugeot E-208 51 Kwh": {
+        "battery_capacity_kWh": 48.1,
+        "efficiency_wh_per_km": 120,
+        "range_km": 310
+    },
+    "Peugeot E-3008 73 Kwh": {
+        "battery_capacity_kWh": 73.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 380
+    },
+    "Peugeot E-3008 73 Kwh Dual Motor": {
+        "battery_capacity_kWh": 73.0,
+        "efficiency_wh_per_km": 195,
+        "range_km": 375
+    },
+    "Peugeot E-3008 97 Kwh Long Range": {
+        "battery_capacity_kWh": 96.9,
+        "efficiency_wh_per_km": 145,
+        "range_km": 500
+    },
+    "Peugeot E-308": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 124,
+        "range_km": 300
+    },
+    "Peugeot E-308 Sw": {
+        "battery_capacity_kWh": 50.8,
+        "efficiency_wh_per_km": 127,
+        "range_km": 300
+    },
+    "Peugeot E-408 58 Kwh": {
+        "battery_capacity_kWh": 58.3,
+        "efficiency_wh_per_km": 129,
+        "range_km": 375
+    },
+    "Peugeot E-5008 73 Kwh": {
+        "battery_capacity_kWh": 73.0,
+        "efficiency_wh_per_km": 150,
+        "range_km": 370
+    },
+    "Peugeot E-5008 73 Kwh Dual Motor": {
+        "battery_capacity_kWh": 73.0,
+        "efficiency_wh_per_km": 203,
+        "range_km": 360
+    },
+    "Peugeot E-5008 97 Kwh Long Range": {
+        "battery_capacity_kWh": 96.9,
+        "efficiency_wh_per_km": 152,
+        "range_km": 485
+    },
+    "Peugeot E-Rifter M 50 Kwh": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 235
+    },
+    "Peugeot E-Rifter Xl 50 Kwh": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 153,
+        "range_km": 230
+    },
+    "Peugeot E-Traveller L2 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 217,
+        "range_km": 180
+    },
+    "Peugeot E-Traveller L2 75 Kwh": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 202,
+        "range_km": 260
+    },
+    "Peugeot E-Traveller L3 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 219,
+        "range_km": 180
+    },
+    "Peugeot E-Traveller L3 75 Kwh": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 204,
+        "range_km": 260
+    },
+    "Polestar 2 Long Range Dual Motor (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 142,
+        "range_km": 455
+    },
+    "Polestar 2 Long Range Performance (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 142,
+        "range_km": 450
+    },
+    "Polestar 2 Long Range Single Motor (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 130,
+        "range_km": 475
+    },
+    "Polestar 2 Standard Range Single Motor (My26)": {
+        "battery_capacity_kWh": 67.0,
+        "efficiency_wh_per_km": 129,
+        "range_km": 405
+    },
+    "Polestar 3 Long Range Dual Motor": {
+        "battery_capacity_kWh": 107.0,
+        "efficiency_wh_per_km": 183,
+        "range_km": 515
+    },
+    "Polestar 3 Long Range Performance": {
+        "battery_capacity_kWh": 107.0,
+        "efficiency_wh_per_km": 194,
+        "range_km": 495
+    },
+    "Polestar 3 Long Range Single Motor": {
+        "battery_capacity_kWh": 107.0,
+        "efficiency_wh_per_km": 166,
+        "range_km": 530
+    },
+    "Polestar 4 Long Range Dual Motor": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 165,
+        "range_km": 485
+    },
+    "Polestar 4 Long Range Single Motor": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 157,
+        "range_km": 495
+    },
+    "Porsche Macan 4 Electric": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 184,
+        "range_km": 470
+    },
+    "Porsche Macan 4S Electric": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 186,
+        "range_km": 470
+    },
+    "Porsche Macan Electric": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 177,
+        "range_km": 495
+    },
+    "Porsche Macan Turbo Electric": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 183,
+        "range_km": 460
+    },
+    "Porsche Taycan": {
+        "battery_capacity_kWh": 82.3,
+        "efficiency_wh_per_km": 164,
+        "range_km": 495
+    },
+    "Porsche Taycan 4": {
+        "battery_capacity_kWh": 82.3,
+        "efficiency_wh_per_km": 172,
+        "range_km": 490
+    },
+    "Porsche Taycan 4 Cross Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 188,
+        "range_km": 510
+    },
+    "Porsche Taycan 4 Plus": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 175,
+        "range_km": 565
+    },
+    "Porsche Taycan 4S": {
+        "battery_capacity_kWh": 82.3,
+        "efficiency_wh_per_km": 174,
+        "range_km": 490
+    },
+    "Porsche Taycan 4S Cross Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 188,
+        "range_km": 510
+    },
+    "Porsche Taycan 4S Plus": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 177,
+        "range_km": 565
+    },
+    "Porsche Taycan 4S Plus Sport Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 186,
+        "range_km": 510
+    },
+    "Porsche Taycan 4S Sport Turismo": {
+        "battery_capacity_kWh": 82.3,
+        "efficiency_wh_per_km": 183,
+        "range_km": 440
+    },
+    "Porsche Taycan Gts": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 176,
+        "range_km": 535
+    },
+    "Porsche Taycan Gts Sport Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 185,
+        "range_km": 505
+    },
+    "Porsche Taycan Plus": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 168,
+        "range_km": 575
+    },
+    "Porsche Taycan Plus Sport Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 176,
+        "range_km": 530
+    },
+    "Porsche Taycan Sport Turismo": {
+        "battery_capacity_kWh": 82.3,
+        "efficiency_wh_per_km": 173,
+        "range_km": 460
+    },
+    "Porsche Taycan Turbo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 174,
+        "range_km": 535
+    },
+    "Porsche Taycan Turbo Cross Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 188,
+        "range_km": 495
+    },
+    "Porsche Taycan Turbo Gt": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 184,
+        "range_km": 475
+    },
+    "Porsche Taycan Turbo Gt Weissach": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 180,
+        "range_km": 475
+    },
+    "Porsche Taycan Turbo S": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 174,
+        "range_km": 525
+    },
+    "Porsche Taycan Turbo S Cross Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 188,
+        "range_km": 485
+    },
+    "Porsche Taycan Turbo S Sport Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 183,
+        "range_km": 505
+    },
+    "Porsche Taycan Turbo Sport Turismo": {
+        "battery_capacity_kWh": 97.0,
+        "efficiency_wh_per_km": 184,
+        "range_km": 505
+    },
+    "Renault 4 E-Tech 40Kwh 120Hp": {
+        "battery_capacity_kWh": 40.0,
+        "efficiency_wh_per_km": 124,
+        "range_km": 245
+    },
+    "Renault 4 E-Tech 52Kwh 150Hp": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 127,
+        "range_km": 315
+    },
+    "Renault 5 E-Tech 40Kwh 120Hp": {
+        "battery_capacity_kWh": 40.0,
+        "efficiency_wh_per_km": 132,
+        "range_km": 250
+    },
+    "Renault 5 E-Tech 40Kwh 95Hp": {
+        "battery_capacity_kWh": 40.0,
+        "efficiency_wh_per_km": 129,
+        "range_km": 255
+    },
+    "Renault 5 E-Tech 52Kwh 150Hp": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 129,
+        "range_km": 320
+    },
+    "Renault Kangoo E-Tech Electric": {
+        "battery_capacity_kWh": 45.0,
+        "efficiency_wh_per_km": 158,
+        "range_km": 225
+    },
+    "Renault Kangoo Grand E-Tech Electric": {
+        "battery_capacity_kWh": 45.0,
+        "efficiency_wh_per_km": 170,
+        "range_km": 220
+    },
+    "Renault Megane E-Tech Ev60 130Hp (Tu2025)": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 125,
+        "range_km": 380
+    },
+    "Renault Megane E-Tech Ev60 220Hp (Tu2025)": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 133,
+        "range_km": 380
+    },
+    "Renault Scenic E-Tech Ev60 170Hp": {
+        "battery_capacity_kWh": 60.0,
+        "efficiency_wh_per_km": 144,
+        "range_km": 340
+    },
+    "Renault Scenic E-Tech Ev87 220Hp": {
+        "battery_capacity_kWh": 87.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 480
+    },
+    "Rolls-Royce Spectre": {
+        "battery_capacity_kWh": 102.0,
+        "efficiency_wh_per_km": 192,
+        "range_km": 465
+    },
+    "Skoda Elroq 50": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 310
+    },
+    "Skoda Elroq 60": {
+        "battery_capacity_kWh": 59.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 350
+    },
+    "Skoda Elroq 85": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 145,
+        "range_km": 450
+    },
+    "Skoda Elroq Rs": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 151,
+        "range_km": 450
+    },
+    "Skoda Enyaq 60": {
+        "battery_capacity_kWh": 59.0,
+        "efficiency_wh_per_km": 145,
+        "range_km": 360
+    },
+    "Skoda Enyaq 85": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 141,
+        "range_km": 455
+    },
+    "Skoda Enyaq 85X": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 150,
+        "range_km": 450
+    },
+    "Skoda Enyaq Coupe 60": {
+        "battery_capacity_kWh": 59.0,
+        "efficiency_wh_per_km": 141,
+        "range_km": 370
+    },
+    "Skoda Enyaq Coupe 85": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 138,
+        "range_km": 470
+    },
+    "Skoda Enyaq Coupe 85X": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 146,
+        "range_km": 460
+    },
+    "Skoda Enyaq Coupe Rs": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 470
+    },
+    "Skoda Enyaq Rs": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 147,
+        "range_km": 460
+    },
+    "Skywell Be11 Long Range": {
+        "battery_capacity_kWh": 81.0,
+        "efficiency_wh_per_km": 166,
+        "range_km": 390
+    },
+    "Skywell Be11 Standard Range": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 330
+    },
+    "Smart #1 Brabus": {
+        "battery_capacity_kWh": 62.0,
+        "efficiency_wh_per_km": 155,
+        "range_km": 325
+    },
+    "Smart #1 Premium": {
+        "battery_capacity_kWh": 62.0,
+        "efficiency_wh_per_km": 141,
+        "range_km": 335
+    },
+    "Smart #1 Pro": {
+        "battery_capacity_kWh": 47.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 250
+    },
+    "Smart #1 Pro+": {
+        "battery_capacity_kWh": 62.0,
+        "efficiency_wh_per_km": 148,
+        "range_km": 335
+    },
+    "Smart #1 Pulse": {
+        "battery_capacity_kWh": 62.0,
+        "efficiency_wh_per_km": 155,
+        "range_km": 325
+    },
+    "Smart #1 Pure": {
+        "battery_capacity_kWh": 47.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 250
+    },
+    "Smart #1 Pure+": {
+        "battery_capacity_kWh": 62.0,
+        "efficiency_wh_per_km": 148,
+        "range_km": 335
+    },
+    "Smart #3 Brabus": {
+        "battery_capacity_kWh": 62.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 335
+    },
+    "Smart #3 Premium": {
+        "battery_capacity_kWh": 62.0,
+        "efficiency_wh_per_km": 136,
+        "range_km": 355
+    },
+    "Smart #3 Pro": {
+        "battery_capacity_kWh": 47.0,
+        "efficiency_wh_per_km": 145,
+        "range_km": 265
+    },
+    "Smart #3 Pro+": {
+        "battery_capacity_kWh": 62.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 355
+    },
+    "Smart #5 Brabus": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 174,
+        "range_km": 450
+    },
+    "Smart #5 Premium": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 159,
+        "range_km": 465
+    },
+    "Smart #5 Pro": {
+        "battery_capacity_kWh": 74.4,
+        "efficiency_wh_per_km": 160,
+        "range_km": 370
+    },
+    "Smart #5 Pro+": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 159,
+        "range_km": 465
+    },
+    "Smart #5 Pulse": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 174,
+        "range_km": 455
+    },
+    "Smart #5 Summit Edition": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 174,
+        "range_km": 455
+    },
+    "Subaru Solterra Awd": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 154,
+        "range_km": 320
+    },
+    "Tesla Model 3 Long Range Awd (Highland)": {
+        "battery_capacity_kWh": 75.0,
+        "efficiency_wh_per_km": 119,
+        "range_km": 525
+    },
+    "Tesla Model 3 Long Range Rwd (Highland)": {
+        "battery_capacity_kWh": 75.0,
+        "efficiency_wh_per_km": 117,
+        "range_km": 545
+    },
+    "Tesla Model 3 Performance (Highland)": {
+        "battery_capacity_kWh": 75.0,
+        "efficiency_wh_per_km": 142,
+        "range_km": 490
+    },
+    "Tesla Model 3 Rwd (Highland Catl Lfp64)": {
+        "battery_capacity_kWh": 60.5,
+        "efficiency_wh_per_km": 116,
+        "range_km": 445
+    },
+    "Tesla Model S Dual Motor": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 150,
+        "range_km": 575
+    },
+    "Tesla Model S Plaid": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 158,
+        "range_km": 560
+    },
+    "Tesla Model X Dual Motor": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 165,
+        "range_km": 485
+    },
+    "Tesla Model X Plaid": {
+        "battery_capacity_kWh": 95.0,
+        "efficiency_wh_per_km": 180,
+        "range_km": 465
+    },
+    "Tesla Model Y Long Range Awd (Juniper)": {
+        "battery_capacity_kWh": 75.0,
+        "efficiency_wh_per_km": 132,
+        "range_km": 455
+    },
+    "Tesla Model Y Long Range Rwd (Juniper)": {
+        "battery_capacity_kWh": 75.0,
+        "efficiency_wh_per_km": 121,
+        "range_km": 470
+    },
+    "Tesla Model Y Rwd (Juniper)": {
+        "battery_capacity_kWh": 60.5,
+        "efficiency_wh_per_km": 121,
+        "range_km": 375
+    },
+    "Toyota Proace Verso L 75 Kwh": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 204,
+        "range_km": 260
+    },
+    "Toyota Proace Verso M 50 Kwh": {
+        "battery_capacity_kWh": 46.3,
+        "efficiency_wh_per_km": 217,
+        "range_km": 180
+    },
+    "Toyota Proace Verso M 75 Kwh": {
+        "battery_capacity_kWh": 68.0,
+        "efficiency_wh_per_km": 202,
+        "range_km": 260
+    },
+    "Toyota Proace City Verso Electric L1 50 Kwh": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 235
+    },
+    "Toyota Proace City Verso Electric L2 50 Kwh": {
+        "battery_capacity_kWh": 50.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 230
+    },
+    "Toyota Bz4X Awd": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 154,
+        "range_km": 345
+    },
+    "Toyota Bz4X Fwd": {
+        "battery_capacity_kWh": 64.0,
+        "efficiency_wh_per_km": 145,
+        "range_km": 350
+    },
+    "Vinfast Vf 8 Eco Extended Range": {
+        "battery_capacity_kWh": 87.7,
+        "efficiency_wh_per_km": 186,
+        "range_km": 405
+    },
+    "Vinfast Vf 8 Plus Extended Range": {
+        "battery_capacity_kWh": 87.7,
+        "efficiency_wh_per_km": 196,
+        "range_km": 400
+    },
+    "Volkswagen Id. Buzz Lwb Gtx": {
+        "battery_capacity_kWh": 86.0,
+        "efficiency_wh_per_km": 182,
+        "range_km": 350
+    },
+    "Volkswagen Id. Buzz Lwb Pro": {
+        "battery_capacity_kWh": 86.0,
+        "efficiency_wh_per_km": 190,
+        "range_km": 370
+    },
+    "Volkswagen Id. Buzz Nwb Gtx": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 194,
+        "range_km": 330
+    },
+    "Volkswagen Id. Buzz Nwb Pro": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 187,
+        "range_km": 360
+    },
+    "Volkswagen Id. Buzz Nwb Pure": {
+        "battery_capacity_kWh": 59.0,
+        "efficiency_wh_per_km": 178,
+        "range_km": 275
+    },
+    "Volkswagen Id.3 Gtx": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 131,
+        "range_km": 470
+    },
+    "Volkswagen Id.3 Gtx Performance": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 131,
+        "range_km": 465
+    },
+    "Volkswagen Id.3 Pro": {
+        "battery_capacity_kWh": 59.0,
+        "efficiency_wh_per_km": 136,
+        "range_km": 365
+    },
+    "Volkswagen Id.3 Pro S": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 138,
+        "range_km": 465
+    },
+    "Volkswagen Id.3 Pure": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 134,
+        "range_km": 325
+    },
+    "Volkswagen Id.4 Gtx": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 420
+    },
+    "Volkswagen Id.4 Pro": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 149,
+        "range_km": 445
+    },
+    "Volkswagen Id.4 Pro 4Motion": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 155,
+        "range_km": 435
+    },
+    "Volkswagen Id.4 Pure": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 143,
+        "range_km": 285
+    },
+    "Volkswagen Id.5 Gtx": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 144,
+        "range_km": 430
+    },
+    "Volkswagen Id.5 Pro": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 138,
+        "range_km": 460
+    },
+    "Volkswagen Id.5 Pure": {
+        "battery_capacity_kWh": 52.0,
+        "efficiency_wh_per_km": 142,
+        "range_km": 320
+    },
+    "Volkswagen Id.7 Gtx": {
+        "battery_capacity_kWh": 86.0,
+        "efficiency_wh_per_km": 145,
+        "range_km": 500
+    },
+    "Volkswagen Id.7 Pro": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 132,
+        "range_km": 475
+    },
+    "Volkswagen Id.7 Pro S": {
+        "battery_capacity_kWh": 86.0,
+        "efficiency_wh_per_km": 133,
+        "range_km": 525
+    },
+    "Volkswagen Id.7 Tourer Gtx": {
+        "battery_capacity_kWh": 86.0,
+        "efficiency_wh_per_km": 147,
+        "range_km": 500
+    },
+    "Volkswagen Id.7 Tourer Pro": {
+        "battery_capacity_kWh": 77.0,
+        "efficiency_wh_per_km": 146,
+        "range_km": 470
+    },
+    "Volkswagen Id.7 Tourer Pro S": {
+        "battery_capacity_kWh": 86.0,
+        "efficiency_wh_per_km": 125,
+        "range_km": 520
+    },
+    "Volvo Ec40 Single Motor (My26)": {
+        "battery_capacity_kWh": 67.0,
+        "efficiency_wh_per_km": 151,
+        "range_km": 360
+    },
+    "Volvo Ec40 Single Motor Er (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 146,
+        "range_km": 420
+    },
+    "Volvo Ec40 Twin Motor (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 155,
+        "range_km": 400
+    },
+    "Volvo Ec40 Twin Motor Performance (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 155,
+        "range_km": 400
+    },
+    "Volvo Es90 Single Motor (My26)": {
+        "battery_capacity_kWh": 88.0,
+        "efficiency_wh_per_km": 135,
+        "range_km": 485
+    },
+    "Volvo Es90 Twin Motor (My26)": {
+        "battery_capacity_kWh": 102.0,
+        "efficiency_wh_per_km": 146,
+        "range_km": 530
+    },
+    "Volvo Es90 Twin Motor Performance (My26)": {
+        "battery_capacity_kWh": 102.0,
+        "efficiency_wh_per_km": 146,
+        "range_km": 530
+    },
+    "Volvo Ex30 Cross Country (My26)": {
+        "battery_capacity_kWh": 65.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 330
+    },
+    "Volvo Ex30 Single Motor (My24-26)": {
+        "battery_capacity_kWh": 49.0,
+        "efficiency_wh_per_km": 147,
+        "range_km": 275
+    },
+    "Volvo Ex30 Single Motor Er (My24-26)": {
+        "battery_capacity_kWh": 65.0,
+        "efficiency_wh_per_km": 138,
+        "range_km": 365
+    },
+    "Volvo Ex30 Twin Motor Performance (My24-26)": {
+        "battery_capacity_kWh": 65.0,
+        "efficiency_wh_per_km": 145,
+        "range_km": 340
+    },
+    "Volvo Ex40 Single Motor (My26)": {
+        "battery_capacity_kWh": 67.0,
+        "efficiency_wh_per_km": 154,
+        "range_km": 345
+    },
+    "Volvo Ex40 Single Motor Er (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 400
+    },
+    "Volvo Ex40 Twin Motor (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 163,
+        "range_km": 385
+    },
+    "Volvo Ex40 Twin Motor Performance (My26)": {
+        "battery_capacity_kWh": 79.0,
+        "efficiency_wh_per_km": 163,
+        "range_km": 385
+    },
+    "Volvo Ex90 Single Motor (My24-26)": {
+        "battery_capacity_kWh": 100.0,
+        "efficiency_wh_per_km": 182,
+        "range_km": 460
+    },
+    "Volvo Ex90 Twin Motor (My24-26)": {
+        "battery_capacity_kWh": 107.0,
+        "efficiency_wh_per_km": 188,
+        "range_km": 470
+    },
+    "Volvo Ex90 Twin Motor Performance (My24-26)": {
+        "battery_capacity_kWh": 107.0,
+        "efficiency_wh_per_km": 188,
+        "range_km": 455
+    },
+    "Voyah Free 106 Kwh": {
+        "battery_capacity_kWh": 100.0,
+        "efficiency_wh_per_km": 200,
+        "range_km": 480
+    },
+    "Xpeng G6 Awd Performance": {
+        "battery_capacity_kWh": 87.5,
+        "efficiency_wh_per_km": 159,
+        "range_km": 475
+    },
+    "Xpeng G6 Rwd Long Range": {
+        "battery_capacity_kWh": 87.5,
+        "efficiency_wh_per_km": 154,
+        "range_km": 480
+    },
+    "Xpeng G6 Rwd Standard Range": {
+        "battery_capacity_kWh": 66.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 370
+    },
+    "Xpeng G9 Awd Performance": {
+        "battery_capacity_kWh": 93.1,
+        "efficiency_wh_per_km": 179,
+        "range_km": 465
+    },
+    "Xpeng G9 Rwd Long Range": {
+        "battery_capacity_kWh": 93.1,
+        "efficiency_wh_per_km": 163,
+        "range_km": 480
+    },
+    "Xpeng G9 Rwd Standard Range": {
+        "battery_capacity_kWh": 75.8,
+        "efficiency_wh_per_km": 165,
+        "range_km": 395
+    },
+    "Xpeng P7 Awd Performance": {
+        "battery_capacity_kWh": 82.7,
+        "efficiency_wh_per_km": 164,
+        "range_km": 460
+    },
+    "Xpeng P7 Rwd Long Range": {
+        "battery_capacity_kWh": 82.7,
+        "efficiency_wh_per_km": 144,
+        "range_km": 495
+    },
+    "Xpeng P7 Wing Edition": {
+        "battery_capacity_kWh": 82.7,
+        "efficiency_wh_per_km": 164,
+        "range_km": 455
+    },
+    "Zeekr 001 Long Range Rwd": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 152,
+        "range_km": 505
+    },
+    "Zeekr 001 Performance Awd": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 159,
+        "range_km": 480
+    },
+    "Zeekr 001 Privilege Awd": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 162,
+        "range_km": 480
+    },
+    "Zeekr 7X Long Range Rwd": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 153,
+        "range_km": 475
+    },
+    "Zeekr 7X Performance Awd": {
+        "battery_capacity_kWh": 94.0,
+        "efficiency_wh_per_km": 173,
+        "range_km": 450
+    },
+    "Zeekr 7X Premium Rwd": {
+        "battery_capacity_kWh": 71.0,
+        "efficiency_wh_per_km": 148,
+        "range_km": 365
+    },
+    "Zeekr X Core Rwd (My25)": {
+        "battery_capacity_kWh": 49.0,
+        "efficiency_wh_per_km": 148,
+        "range_km": 265
+    },
+    "Zeekr X Long Range Rwd (My25)": {
+        "battery_capacity_kWh": 65.0,
+        "efficiency_wh_per_km": 146,
+        "range_km": 360
+    },
+    "Zeekr X Privilege Awd (My25)": {
+        "battery_capacity_kWh": 65.0,
+        "efficiency_wh_per_km": 153,
+        "range_km": 350
+    }
+}

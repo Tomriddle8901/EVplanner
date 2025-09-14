@@ -1,0 +1,15 @@
+import pandas as pd, json
+
+# Load your cleaned CSV
+csv_path = r"C:/Users/hp_pa/Desktop/EV APP/archive (2)/cleaned_electric_vehicles.csv"
+df = pd.read_csv(csv_path)
+
+# Convert to dictionary
+car_dict = df.set_index("car_name")[["battery_capacity_kWh", "efficiency_wh_per_km", "range_km"]].to_dict(orient="index")
+
+# Save as JSON
+json_path = r"C:/Users/hp_pa/Desktop/EV APP/archive (2)/cleaned_electric_vehicles.json"
+with open(json_path, "w") as f:
+    json.dump(car_dict, f, indent=4)
+
+print("✅ JSON regenerated and saved at:", json_path)

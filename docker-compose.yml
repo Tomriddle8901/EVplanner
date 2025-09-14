@@ -1,0 +1,36 @@
+services:
+  vehicle-service:
+    build: .
+    command: uvicorn Services.vehicle_service:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+
+  route-service:
+    build: .
+    command: uvicorn Services.route_service:app --host 0.0.0.0 --port 8001
+    ports:
+      - "8001:8001"
+
+  prediction-service:
+    build: .
+    command: uvicorn Services.prediction_service:app --host 0.0.0.0 --port 8002
+    ports:
+      - "8002:8002"
+    environment:
+      - VEHICLE_SERVICE_URL=http://vehicle-service:8000/vehicle
+      - ROUTE_SERVICE_URL=http://route-service:8001/route
+      - CHARGING_SERVICE_URL=http://charging-service:8003/charging
+
+  charging-service:
+    build: .
+    command: uvicorn Services.charging_service:app --host 0.0.0.0 --port 8003
+    ports:
+      - "8003:8003"
+
+  planner-service:
+    build: .
+    command: uvicorn Services.planner_service:app --host 0.0.0.0 --port 8004
+    ports:
+      - "8010:8004"
+    environment:
+      - PREDICTION_SERVICE_URL=http://prediction-service:8002/predict

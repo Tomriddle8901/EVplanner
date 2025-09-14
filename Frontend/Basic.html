@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>⚡ EV Route Planner</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+  <style>
+    :root {
+      --bg-color: #121212;
+      --sidebar-bg: #1e1e1e;
+      --text-color: #eee;
+      --accent: #ff9800;
+      --border-color: #333;
+      --map-filter: invert(0);
+    }
+    body.light {
+      --bg-color: #f9f9f9;
+      --sidebar-bg: #fff;
+      --text-color: #222;
+      --accent: #007bff;
+      --border-color: #ccc;
+      --map-filter: invert(1) hue-rotate(180deg) brightness(95%);
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: var(--bg-color);
+      color: var(--text-color);
+    }
+
+    /* Navbar */
+    .navbar {
+      background: var(--sidebar-bg);
+      color: var(--text-color);
+      padding: 12px 20px;
+      font-size: 18px;
+      font-weight: bold;
+      letter-spacing: 1px;
+      border-bottom: 2px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .theme-toggle {
+      background: var(--accent);
+      border: none;
+      color: #fff;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .container {
+      display: flex;
+      height: calc(100vh - 50px);
+    }
+
+    /* Sidebar */
+    .sidebar {
+      width: 300px;
+      background: var(--sidebar-bg);
+      padding: 15px;
+      border-right: 2px solid var(--border-color);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      z-index: 1500;
+      overflow-y: auto;
+    }
+
+    .sidebar input, .sidebar button {
+      padding: 10px;
+      font-size: 14px;
+      border-radius: 6px;
+      border: none;
+      outline: none;
+    }
+
+    .sidebar input {
+      width: 100%;
+      background: var(--border-color);
+      color: var(--text-color);
+    }
+
+    .sidebar button {
+      background: var(--accent);
+      color: #fff;
+      font-weight: bold;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .sidebar button:hover {
+      opacity: 0.9;
+    }
+
+    .error {
+      color: #ff4444;
+      font-size: 13px;
+    }
+
+    /* Autocomplete dropdown */
+    .autocomplete-list {
+      position: absolute;
+      background: var(--sidebar-bg);
+      border: 1px solid var(--border-color);
+      max-height: 150px;
+      overflow-y: auto;
+      z-index: 2000;
+      width: 260px;
+      color: var(--text-color);
+    }
+    .autocomplete-list div {
+      padding: 6px;
+      cursor: pointer;
+    }
+    .autocomplete-list div:hover {
+      background: var(--border-color);
+    }
+
+    /* Map */
+    #map {
+      flex: 1;
+      height: 100%;
+      filter: var(--map-filter);
+    }
+
+    /* Trip summary */
+    #summary-panel {
+      margin-top: 10px;
+      padding: 10px;
+      background: var(--bg-color);
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      display: none;
+    }
+    #summary-panel h3 {
+      margin-top: 0;
+      color: var(--accent);
+    }
+
+    /* Loading spinner */
+    #loading {
+      display: none;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: rgba(0,0,0,0.8);
+      color: white;
+      padding: 20px;
+      border-radius: 10px;
+      font-size: 16px;
+      z-index: 2000;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navbar -->
+  <div class="navbar">
+    ⚡ EV Route Planner
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 Toggle Theme</button>
+  </div>
+
+  <div class="container">
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <div style="position: relative;">
+        <input type="text" id="car" placeholder="Car name (e.g., Aiways U5)" oninput="showSuggestions(this.value)" autocomplete="off"/>
+        <div id="car-suggestions" class="autocomplete-list"></div>
+      </div>
+      <input type="text" id="start" placeholder="Start location" />
+      <input type="text" id="end" placeholder="End location" />
+      <input type="number" id="battery" placeholder="Battery %" />
+      <button onclick="planTrip()">🚗 Plan Trip</button>
+      <span id="error" class="error"></span>
+
+      <!-- Trip Summary inside sidebar -->
+      <div id="summary-panel"></div>
+    </div>
+
+    <!-- Map -->
+    <div id="map"></div>
+  </div>
+
+  <!-- Loading Spinner -->
+  <div id="loading">⏳ Planning your trip…</div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <script>
+    // Initialize dark map
+    const map = L.map('map').setView([46.5, -81.0], 6);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/">OSM</a> contributors &copy; <a href="https://carto.com/">CARTO</a>',
+      subdomains: 'abcd',
+      maxZoom: 19
+    }).addTo(map);
+
+    let allCars = [];
+
+    // Fetch all cars
+    async function fetchCars() {
+      try {
+        const res = await fetch("http://127.0.0.1:8000/vehicles?limit=500");
+        allCars = await res.json();
+        console.log("✅ Cars loaded:", allCars.length);
+      } catch (err) {
+        console.error("⚠️ Could not load cars", err);
+      }
+    }
+    fetchCars();
+
+    // Autocomplete
+    function showSuggestions(query) {
+      const suggestions = document.getElementById("car-suggestions");
+      suggestions.innerHTML = "";
+      if (!query) return;
+      const matches = allCars.filter(car => car.toLowerCase().includes(query.toLowerCase()));
+      matches.forEach(car => {
+        const div = document.createElement("div");
+        div.textContent = car;
+        div.onclick = () => {
+          document.getElementById("car").value = car;
+          suggestions.innerHTML = "";
+        };
+        suggestions.appendChild(div);
+      });
+    }
+
+    // Custom icons
+    const startIcon = L.icon({ iconUrl: "https://cdn-icons-png.flaticon.com/512/684/684908.png", iconSize: [32,32] });
+    const endIcon = L.icon({ iconUrl: "https://cdn-icons-png.flaticon.com/512/149/149060.png", iconSize: [32,32] });
+    const stopIcon = L.icon({ iconUrl: "https://img.icons8.com/emoji/48/electric-plug.png", iconSize: [28,28] }); // reverted here
+
+    // Plan trip
+    async function planTrip() {
+      const car = document.getElementById("car").value.trim();
+      const start = document.getElementById("start").value.trim();
+      const end = document.getElementById("end").value.trim();
+      const battery = document.getElementById("battery").value.trim();
+      const errorEl = document.getElementById("error");
+      const summaryPanel = document.getElementById("summary-panel");
+      const loading = document.getElementById("loading");
+
+      if (!car || !start || !end || !battery) {
+        errorEl.textContent = "⚠️ Please fill all fields.";
+        return;
+      }
+      if (!allCars.includes(car)) {
+        errorEl.textContent = "⚠️ Car not available in dataset.";
+        return;
+      }
+      errorEl.textContent = "";
+
+      const url = `http://127.0.0.1:8010/plan?car_name=${encodeURIComponent(car)}&battery_percent=${battery}&start=${encodeURIComponent(start)}&end=${encodeURIComponent(end)}`;
+
+      try {
+        loading.style.display = "block"; // show spinner
+        const res = await fetch(url);
+        const data = await res.json();
+        loading.style.display = "none"; // hide spinner
+
+        if (!res.ok) {
+          errorEl.textContent = `⚠️ ${data.detail || "Unknown error"}`;
+          return;
+        }
+
+        // Clear old layers
+        map.eachLayer(layer => {
+          if (layer instanceof L.Marker || layer instanceof L.Polyline || layer instanceof L.Circle) map.removeLayer(layer);
+        });
+
+        // Base dark map layer (re-add after clearing)
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+          attribution: '&copy; OSM contributors & CARTO',
+          subdomains: 'abcd',
+          maxZoom: 19
+        }).addTo(map);
+
+        // Route polyline
+        if (data.route_points && data.route_points.length > 0) {
+          const route = L.polyline(data.route_points, { color: "#ff9800", weight: 5 }).addTo(map);
+          map.fitBounds(route.getBounds());
+
+          // Start/End markers
+          L.marker(data.route_points[0], { icon: startIcon }).addTo(map).bindPopup("🚩 Start: " + start);
+          L.marker(data.route_points[data.route_points.length-1], { icon: endIcon }).addTo(map).bindPopup("🏁 End: " + end);
+        }
+
+        // Charging stops
+        if (data.stops) {
+          data.stops.forEach((stop, idx) => {
+            L.marker([stop.lat, stop.lon], { icon: stopIcon })
+              .addTo(map)
+              .bindPopup(`<b>#${idx+1} ${stop.name}</b><br>${stop.address}<br>⚡ ${stop.power_kW} kW`);
+          });
+        }
+
+        // Trip summary
+        summaryPanel.style.display = "block";
+        summaryPanel.innerHTML = `
+          <h3>📊 Trip Summary</h3>
+          <div><b>🚗 Car:</b> ${data.trip_summary.car}</div>
+          <div><b>📍 From:</b> ${data.trip_summary.start}</div>
+          <div><b>🏁 To:</b> ${data.trip_summary.end}</div>
+          <div><b>📏 Distance:</b> ${data.trip_summary.trip_distance_km} km</div>
+          <div><b>⚡ Stops:</b> ${(data.stops && data.stops.length) ? data.stops.length : "None"}</div>
+        `;
+      } catch (err) {
+        loading.style.display = "none";
+        errorEl.textContent = "⚠️ Could not connect to backend.";
+        console.error(err);
+      }
+    }
+
+    // Theme toggle
+    function toggleTheme() {
+      document.body.classList.toggle("light");
+    }
+  </script>
+</body>
+</html>
