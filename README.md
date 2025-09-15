@@ -19,6 +19,5 @@ The **EV Planner** is a web-based application that helps electric vehicle (EV) u
 - `requirements.txt` → Python dependencies  
 - `docker-compose.yml` → containerized setup  
 
----
 
 📌 *Plan smarter EV trips with real-time charging station routes!*
